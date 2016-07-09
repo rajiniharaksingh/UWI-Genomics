@@ -1,0 +1,66 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ACIN1	expression	RARB		
+ACIN1	molecular cleavage	ACIN1		
+ACIN1	protein-DNA interactions	RARB		
+ACIN1	protein-protein interactions	RARB		
+ASXL1	expression	RARB		
+ASXL1	protein-protein interactions	RARB		
+BTBD10	protein-protein interactions	ACIN1		
+CSTA	protein-protein interactions	CSTA		
+HDAC11	protein-protein interactions	ACIN1		
+HDAC9	protein-protein interactions	HDAC9		
+HIST4H4	protein-protein interactions	HDAC9		
+HIST4H4	ubiquitination	HIST4H4		
+LIN28A	expression	LIN28A		
+LIN28A	molecular cleavage	LIN28A		
+LIN28A	protein-RNA interactions	LIN28A		
+LIN28A	protein-protein interactions	LARP4		
+LPAR6	protein-protein interactions	ATL3		
+NOP2	protein-protein interactions	HDAC11		
+NOP2	protein-protein interactions	HDAC9		
+NOP2	protein-protein interactions	LIN28A		
+PPAN	protein-protein interactions	HDAC11		
+PPAN	protein-protein interactions	LIN28A		
+RARB	expression	RARB		
+RARB	protein-DNA interactions	RARB		
+RARB	protein-protein interactions	ACIN1		
+RARB	protein-protein interactions	ASXL1		
+RARB	protein-protein interactions	RARB		
+RARB	transcription	RARB		
+SON	protein-protein interactions	HDAC11		
+SUZ12	expression	SUZ12		
+SUZ12	protein-DNA interactions	RARB		
+SUZ12	protein-protein interactions	ACIN1		
+SUZ12	protein-protein interactions	ASXL1		
+SUZ12	protein-protein interactions	CHTOP		
+SUZ12	protein-protein interactions	FAM208A		
+SUZ12	protein-protein interactions	HIST4H4		
+SUZ12	protein-protein interactions	NOP2		
+SUZ12	protein-protein interactions	RCL1		
+SUZ12	protein-protein interactions	SF3A3		
+SUZ12	protein-protein interactions	SON		
+SUZ12	protein-protein interactions	SRSF8		
+SUZ12	protein-protein interactions	SUZ12		
+YBX3	protein-protein interactions	CHTOP		
+YBX3	protein-protein interactions	HDAC11		
+YBX3	protein-protein interactions	PXK		
+YBX3	protein-protein interactions	SUZ12		
+YBX3	translocation	YBX3		
+ZBTB11	protein-protein interactions	LIN28A		
+ZCCHC6	protein-protein interactions	LIN28A		
+ZDHHC17	protein-protein interactions	CCDC7		
+ZDHHC17	protein-protein interactions	CSTA		
+ZDHHC17	protein-protein interactions	DALRD3		
+ZDHHC17	protein-protein interactions	FAM122C		
+ZDHHC17	protein-protein interactions	FAM135B		
+ZDHHC17	protein-protein interactions	LIN28A		
+ZDHHC17	protein-protein interactions	LPAR6		
+ZDHHC17	protein-protein interactions	MAP3K19		
+ZDHHC17	protein-protein interactions	SF3A3		
+ZDHHC17	protein-protein interactions	SLC9A9		
+ZDHHC17	protein-protein interactions	SRSF4		
+ZDHHC17	protein-protein interactions	TMCC1		
+ZDHHC17	protein-protein interactions	ZCCHC6		
+ZDHHC17	protein-protein interactions	ZDHHC17		
+ZNF333	protein-protein interactions	ZDHHC17		

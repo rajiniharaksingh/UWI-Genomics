@@ -1,0 +1,71 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+CPT1	expression	CPT1		
+Growth hormone	expression	Growth hormone		
+Growth hormone	expression	Histone h4		
+Growth hormone	expression	LEPR		
+Histone h4	modification	Histone h4		
+Histone h4	protein-DNA interactions	Histone h4		
+Histone h4	protein-DNA interactions	KLF2		
+Histone h4	protein-DNA interactions	MSH5		
+Histone h4	protein-DNA interactions	NEURL1		
+Histone h4	protein-protein interactions	L3MBTL2		
+KISS1	localization	Growth hormone		
+KLF2	expression	LEPR		
+KLF2	expression	LTC4S		
+KLF2	expression	Notch		
+KLF2	inhibition	KLF2		
+KMT5C	expression	Histone h4		
+L3MBTL2	protein-protein interactions	Histone h4		
+LEPR	expression	CPT1		
+LEPR	expression	Growth hormone		
+LEPR	expression	KISS1		
+LEPR	expression	LEPR		
+LEPR	phosphorylation	LEPR		
+LEPR	protein-protein interactions	LEPR		
+LEPR	regulation of binding	LEPR		
+LIN37	protein-protein interactions	L3MBTL2		
+LRP1	expression	LRP1		
+LRP1	localization	LRP1		
+LRP1	molecular cleavage	LRP1		
+LRP1	protein-protein interactions	LEPR		
+LRP1	protein-protein interactions	LRP1		
+LRP1	regulation of binding	LRP1		
+LRRC59	protein-protein interactions	KRI1		
+LTC4S	protein-protein interactions	LTC4S		
+MAST3	protein-protein interactions	LRRC59		
+MFI2	protein-protein interactions	LRP1		
+MIER2	protein-protein interactions	L3MBTL2		
+MPG	protein-protein interactions	KPRP		
+MPG	protein-protein interactions	LRRC59		
+MPG	protein-protein interactions	MPG		
+MRPS31	protein-protein interactions	MAST3		
+MRPS31	protein-protein interactions	MRPS15		
+MRPS31	protein-protein interactions	MRPS24		
+MRPS31	protein-protein interactions	MRPS25		
+MRPS31	protein-protein interactions	MRPS26		
+MRPS5	protein-protein interactions	MRPS15		
+MRPS5	protein-protein interactions	MRPS24		
+MRPS5	protein-protein interactions	MRPS25		
+MRPS5	protein-protein interactions	MRPS26		
+MRPS5	protein-protein interactions	MRPS31		
+MRS2	protein-protein interactions	MPG		
+MSH4	protein-protein interactions	MSH5		
+MSH5	protein-protein interactions	MSH4		
+NEURL1	protein-protein interactions	NEURL1		
+NOC2L	modification	Histone h4		
+NOC2L	protein-protein interactions	MPG		
+Notch	localization	Notch		
+Notch	modification	Histone h4		
+Notch	molecular cleavage	Notch		
+Notch	translocation	Notch		
+P110	localization	P110		
+Pdgfr	activation	LRP1		
+Pdgfr	activation	Pdgfr		
+Pdgfr	molecular cleavage	Pdgfr		
+Pdgfr	phosphorylation	LRP1		
+Pdgfr	protein-protein interactions	P110		
+Pdgfr	regulation of binding	Pdgfr		
+mir-217	expression	mir-326		
+mir-326	activation	Notch		
+mir-326	regulation of binding	mir-326		
+mir-335	expression	mir-326		

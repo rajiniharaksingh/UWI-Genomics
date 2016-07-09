@@ -1,0 +1,65 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ABCB6	expression	CYP39A1		
+ABCB6	expression	ISCA1		
+ABCB6	expression	PPOX		
+ABCB6	expression	UROD		
+ABCB7	activation	ACO1		
+ABCB7	activation	Aconitase		
+ACO1	molecular cleavage	ACO1		
+ACO1	regulation of binding	ACO1		
+Aconitase	membership	ACO1		
+DHX15	protein-protein interactions	CHERP		
+DYSF	expression	ABRACL		
+DYSF	expression	GPR65		
+DYSF	expression	IDH3A		
+DYSF	protein-protein interactions	DHX15		
+FRA10AC1	protein-protein interactions	CHERP		
+HABP4	protein-protein interactions	FRA10AC1		
+HMGXB4	protein-protein interactions	HABP4		
+IK	protein-protein interactions	FRA10AC1		
+IK	protein-protein interactions	IK		
+ISCA1	activation	Aconitase		
+ISCU	activation	Aconitase		
+MYBPC1	protein-protein interactions	ACO1		
+MYBPC1	protein-protein interactions	DYSF		
+NUDCD1	protein-protein interactions	CHERP		
+NUDCD1	protein-protein interactions	DHX15		
+NUDCD1	protein-protein interactions	DNHD1		
+PPOX	protein-protein interactions	ABCB7		
+SAMHD1	expression	SAMHD1		
+SAMHD1	protein-protein interactions	DYSF		
+SAMHD1	protein-protein interactions	HSF5		
+SAMHD1	protein-protein interactions	SAMHD1		
+SF3B1	expression	ABCB7		
+SF3B1	protein-protein interactions	CHERP		
+SF3B1	protein-protein interactions	DHX15		
+SF3B1	protein-protein interactions	NUDCD1		
+SF3B1	protein-protein interactions	SF3B2		
+SF3B2	protein-protein interactions	CHERP		
+SF3B2	protein-protein interactions	DHX15		
+SF3B2	protein-protein interactions	FRA10AC1		
+SF3B2	protein-protein interactions	NUDCD1		
+SF3B2	protein-protein interactions	SF3B1		
+SLC25A5	activation	SLC25A5		
+SLC25A5	protein-protein interactions	ABCB7		
+SLC25A5	protein-protein interactions	CMC1		
+SLC25A5	protein-protein interactions	PPOX		
+SLC35F6	protein-protein interactions	SLC25A5		
+SMIM20	protein-protein interactions	CMC1		
+SMIM20	protein-protein interactions	SLC25A5		
+SUCLA2	protein-protein interactions	ABCB7		
+SUCLA2	protein-protein interactions	PPOX		
+SUCLA2	protein-protein interactions	SLC25A5		
+TRIM55	protein-protein interactions	MYBPC1		
+TRIM55	protein-protein interactions	NEBL		
+TRIM55	protein-protein interactions	TRIM55		
+U2AF1/U2AF1L5	protein-protein interactions	CHERP		
+U2AF1/U2AF1L5	protein-protein interactions	FRA10AC1		
+U2AF1/U2AF1L5	protein-protein interactions	SF3B1		
+U2AF1/U2AF1L5	protein-protein interactions	SF3B2		
+UROD	activation	UROD		
+UROD	protein-protein interactions	HMGXB4		
+UROD	protein-protein interactions	UROD		
+ZNF830	protein-protein interactions	FRA10AC1		
+ZNF830	protein-protein interactions	IK		
+ZNF830	protein-protein interactions	SF3B2		

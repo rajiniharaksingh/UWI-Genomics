@@ -1,0 +1,66 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Oas	activation	RNASEL		
+Oas	regulation of binding	RNASEL		
+PDSS2	protein-protein interactions	OXLD1		
+POLR1C	protein-protein interactions	POLR1D		
+POLR1C	protein-protein interactions	POLR2L		
+POLR1D	protein-protein interactions	POLR1C		
+POLR1D	protein-protein interactions	POLR2L		
+POLR2K	protein-protein interactions	POLR2K		
+POLR2K	protein-protein interactions	POLR2L		
+POLR2L	protein-protein interactions	POLR1C		
+POLR2L	protein-protein interactions	POLR1D		
+POLR3D	protein-protein interactions	POLR1C		
+POLR3D	protein-protein interactions	POLR1D		
+POLR3D	protein-protein interactions	POLR2L		
+POLR3H	protein-protein interactions	POLR1D		
+POLR3H	protein-protein interactions	POLR3D		
+POLRMT	protein-protein interactions	OXLD1		
+RNASEL	protein-protein interactions	POLRMT		
+RNASEL	regulation of binding	RNASEL		
+SMG5	molecular cleavage	SMG5		
+SMG5	protein-protein interactions	POLRMT		
+SMG5	protein-protein interactions	RNASEL		
+SMG6	protein-protein interactions	SMG5		
+SMG6	protein-protein interactions	SMG6		
+STAT	activation	STAT		
+STAT	phosphorylation	STAT		
+STAT	regulation of binding	STAT		
+STAT	transcription	Oas		
+STAT	translocation	STAT		
+TFB1M	protein-protein interactions	POLRMT		
+TFB2M	protein-protein interactions	POLRMT		
+TNFAIP1	protein-protein interactions	POLR1C		
+TNFAIP1	protein-protein interactions	TNFAIP1		
+TRIM17	molecular cleavage	ZWINT		
+TRIM17	protein-protein interactions	ZWINT		
+TRIM44	protein-protein interactions	TRIM17		
+TTBK2	protein-protein interactions	TTBK1		
+UBXN1	protein-protein interactions	PLAA		
+UBXN1	protein-protein interactions	POLR1C		
+UBXN1	protein-protein interactions	TNFAIP1		
+UBXN1	protein-protein interactions	UBXN1		
+UBXN2A	protein-protein interactions	PHAX		
+UBXN2A	protein-protein interactions	UBXN1		
+UBXN6	protein-protein interactions	PLAA		
+UBXN6	protein-protein interactions	UBXN2A		
+UBXN7	protein-protein interactions	PLAA		
+UBXN7	protein-protein interactions	UBXN1		
+UBXN7	protein-protein interactions	UBXN2A		
+VCPIP1	protein-protein interactions	PLAA		
+VCPIP1	protein-protein interactions	SCAPER		
+VCPIP1	protein-protein interactions	SVIP		
+VCPIP1	protein-protein interactions	UBXN1		
+VCPIP1	protein-protein interactions	UBXN2A		
+VCPIP1	protein-protein interactions	UBXN6		
+VCPKMT	protein-protein interactions	UBXN6		
+WAC	protein-protein interactions	VCPIP1		
+WAC	protein-protein interactions	WAC		
+WDR11	protein-protein interactions	UBXN7		
+ZWINT	protein-protein interactions	PHAX		
+ZWINT	protein-protein interactions	SMG5		
+ZWINT	protein-protein interactions	SMTN		
+ZWINT	protein-protein interactions	TRIM17		
+ZWINT	protein-protein interactions	TTBK2		
+ZWINT	protein-protein interactions	ZWINT		

@@ -1,0 +1,122 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+KLRC4-KLRK1/KLRK1	expression	KLRC4-KLRK1/KLRK1		
+KLRC4-KLRK1/KLRK1	localization	KLRC4-KLRK1/KLRK1		
+KLRC4-KLRK1/KLRK1	protein-protein interactions	KLRC4-KLRK1/KLRK1		
+KLRC4-KLRK1/KLRK1	protein-protein interactions	MICB		
+KLRC4-KLRK1/KLRK1	regulation of binding	KLRC4-KLRK1/KLRK1		
+LONP1	expression	Mitochondrial complex 1		
+LONP1	expression	cytochrome-c oxidase		
+LONP1	protein-protein interactions	LONP1		
+MAST1	protein-protein interactions	LONP1		
+MICB	molecular cleavage	KLRC4-KLRK1/KLRK1		
+MICB	protein-protein interactions	KLRC4-KLRK1/KLRK1		
+MMAA	protein-protein interactions	MMAA		
+MUT	activation	cytochrome-c oxidase		
+MUT	expression	MUT		
+MUT	inhibition	Mitochondrial complex 1		
+MUT	protein-protein interactions	MMAA		
+MUT	protein-protein interactions	MUT		
+Mitochondrial complex 1	membership	NDUFA1		
+Mitochondrial complex 1	membership	NDUFA10		
+Mitochondrial complex 1	membership	NDUFA12		
+Mitochondrial complex 1	membership	NDUFA3		
+Mitochondrial complex 1	membership	NDUFA4		
+Mitochondrial complex 1	membership	NDUFA4L2		
+Mitochondrial complex 1	membership	NDUFA5		
+Mitochondrial complex 1	membership	NDUFA6		
+Mitochondrial complex 1	membership	NDUFA8		
+Mitochondrial complex 1	membership	NDUFA9		
+Mitochondrial complex 1	membership	NDUFAF1		
+Mitochondrial complex 1	membership	NDUFAF2		
+Mitochondrial complex 1	membership	NDUFB10		
+Mitochondrial complex 1	membership	NDUFB2		
+Mitochondrial complex 1	membership	NDUFB3		
+Mitochondrial complex 1	membership	NDUFS3		
+Mitochondrial complex 1	membership	NDUFS4		
+Mitochondrial complex 1	membership	NDUFS6		
+Mitochondrial complex 1	membership	NDUFS7		
+Mitochondrial complex 1	membership	NDUFV3		
+Mitochondrial complex 1	protein-protein interactions	cytochrome-c oxidase		
+NADH dehydrogenase	membership	NDUFA1		
+NADH dehydrogenase	membership	NDUFA10		
+NADH dehydrogenase	membership	NDUFA12		
+NADH dehydrogenase	membership	NDUFA3		
+NADH dehydrogenase	membership	NDUFA4		
+NADH dehydrogenase	membership	NDUFA5		
+NADH dehydrogenase	membership	NDUFA6		
+NADH dehydrogenase	membership	NDUFA8		
+NADH dehydrogenase	membership	NDUFA9		
+NADH dehydrogenase	membership	NDUFB10		
+NADH dehydrogenase	membership	NDUFB2		
+NADH dehydrogenase	membership	NDUFB3		
+NADH dehydrogenase	membership	NDUFS3		
+NADH dehydrogenase	membership	NDUFS4		
+NADH dehydrogenase	membership	NDUFS6		
+NADH dehydrogenase	membership	NDUFS7		
+NADH dehydrogenase	membership	NDUFV3		
+NDUFA12	protein-protein interactions	MRPL1		
+NDUFA4	protein-protein interactions	cytochrome-c oxidase		
+NDUFA8	protein-protein interactions	NDUFA1		
+NDUFA8	protein-protein interactions	NDUFA12		
+NDUFA8	protein-protein interactions	NDUFA3		
+NDUFA9	protein-protein interactions	NDUFA12		
+NDUFA9	protein-protein interactions	NDUFA6		
+NDUFA9	protein-protein interactions	NDUFA8		
+NDUFAF1	activation	Mitochondrial complex 1		
+NDUFAF1	protein-protein interactions	MRPL1		
+NDUFAF1	protein-protein interactions	NDUFA12		
+NDUFAF1	protein-protein interactions	NDUFA6		
+NDUFAF1	protein-protein interactions	NDUFA8		
+NDUFAF1	protein-protein interactions	NDUFA9		
+NDUFAF5	protein-protein interactions	NDUFA10		
+NDUFB3	protein-protein interactions	NDUFA8		
+NDUFS3	protein-protein interactions	MRPL1		
+NDUFS3	protein-protein interactions	NDUFA12		
+NDUFS3	protein-protein interactions	NDUFA3		
+NDUFS3	protein-protein interactions	NDUFA5		
+NDUFS3	protein-protein interactions	NDUFA6		
+NDUFS3	protein-protein interactions	NDUFA8		
+NDUFS3	protein-protein interactions	NDUFA9		
+NDUFS3	protein-protein interactions	NDUFAF1		
+NDUFS3	protein-protein interactions	NDUFAF5		
+NDUFS3	protein-protein interactions	NDUFB10		
+NDUFS3	protein-protein interactions	NDUFB3		
+NDUFS4	activation	Mitochondrial complex 1		
+NDUFS4	protein-protein interactions	NDUFA8		
+NDUFS4	protein-protein interactions	NDUFS3		
+NDUFS6	protein-protein interactions	NDUFA8		
+NDUFS6	protein-protein interactions	NDUFA9		
+NDUFS6	protein-protein interactions	NDUFS3		
+NDUFS7	protein-protein interactions	NDUFA6		
+NDUFS7	protein-protein interactions	NDUFA8		
+NDUFS7	protein-protein interactions	NDUFA9		
+NDUFS7	protein-protein interactions	NDUFAF1		
+NDUFS7	protein-protein interactions	NDUFS3		
+NDUFV3	protein-protein interactions	NDUFA12		
+NDUFV3	protein-protein interactions	NDUFA8		
+NDUFV3	protein-protein interactions	NDUFA9		
+NDUFV3	protein-protein interactions	NDUFS3		
+NDUFV3	protein-protein interactions	NDUFS6		
+NFE2L1	expression	Mitochondrial complex 1		
+NFE2L1	expression	cytochrome-c oxidase		
+NFE2L1	protein-protein interactions	NFE2L1		
+NOA1	protein-protein interactions	NDUFA9		
+NOA1	protein-protein interactions	NDUFS3		
+NOS3	activation	Mitochondrial complex 1		
+NOS3	activation	NOS3		
+NOS3	expression	NOS3		
+NOS3	inhibition	NOS3		
+NOS3	phosphorylation	NOS3		
+NOS3	protein-protein interactions	MAST1		
+NOS3	protein-protein interactions	NOS3		
+NOS3	regulation of binding	NOS3		
+NOS3	transcription	NOS3		
+NOS3	translocation	NOS3		
+cytochrome-c oxidase	protein-protein interactions	Mitochondrial complex 1		
+p85 (pik3r)	activation	p85 (pik3r)		
+p85 (pik3r)	localization	p85 (pik3r)		
+p85 (pik3r)	protein-protein interactions	KLRC4-KLRK1/KLRK1		
+p85 (pik3r)	protein-protein interactions	MUT		
+p85 (pik3r)	regulation of binding	p85 (pik3r)		
+p85 (pik3r)	transcription	NOS3		
+p85 (pik3r)	ubiquitination	p85 (pik3r)		

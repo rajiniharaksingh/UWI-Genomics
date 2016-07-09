@@ -1,0 +1,69 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Alpha tubulin	molecular cleavage	Alpha tubulin		
+Alpha tubulin	protein-protein interactions	Beta Tubulin		
+Alpha tubulin	protein-protein interactions	Dynein		
+Alpha tubulin	protein-protein interactions	NUMA1		
+Beta Tubulin	protein-protein interactions	Alpha tubulin		
+Beta Tubulin	protein-protein interactions	Dynein		
+Beta Tubulin	protein-protein interactions	LRRK2		
+KDM6B	regulation of binding	NOS2		
+KHDRBS2	protein-protein interactions	KHDRBS2		
+KIF11	protein-protein interactions	KIF11		
+KIF1A	protein-protein interactions	KIF1A		
+KIF2B	protein-protein interactions	Dynein		
+LRRC47	protein-protein interactions	KIF11		
+LRRK2	activation	LRRK2		
+LRRK2	expression	NOS2		
+LRRK2	modification	Alpha tubulin		
+LRRK2	protein-protein interactions	LMNB2		
+LRRK2	protein-protein interactions	LRRK2		
+MAD1L1	protein-protein interactions	MAD1L1		
+MDC1	protein-protein interactions	LSM12		
+MDC1	protein-protein interactions	MDC1		
+MDC1	regulation of binding	MDC1		
+MFAP1	protein-protein interactions	MAD1L1		
+MKRN3	protein-protein interactions	KIF1A		
+MKRN3	protein-protein interactions	MKRN3		
+MNAT1	protein-protein interactions	MKRN3		
+MOG	activation	Beta Tubulin		
+MOG	expression	NOS2		
+MOG	phosphorylation	Beta Tubulin		
+MRE11A	localization	MRE11A		
+MRE11A	protein-DNA interactions	LMNB2		
+MRE11A	protein-protein interactions	MDC1		
+MRE11A	protein-protein interactions	MRE11A		
+MRE11A	protein-protein interactions	RPA		
+MRE11A	translocation	MRE11A		
+MYO1D	protein-protein interactions	LRRK2		
+MYO1D	protein-protein interactions	MDC1		
+NABP1	expression	NABP2		
+NABP1	protein-protein interactions	KHDRBS2		
+NABP1	protein-protein interactions	MKRN3		
+NDC80	localization	MAD1L1		
+NDC80	protein-protein interactions	MFAP1		
+NDC80	protein-protein interactions	NDC80		
+NDE1	protein-protein interactions	Dynein		
+NDE1	protein-protein interactions	MKRN3		
+NDE1	protein-protein interactions	NDC80		
+NDE1	protein-protein interactions	NDE1		
+NKX3-1	molecular cleavage	NKX3-1		
+NKX3-1	protein-protein interactions	LMCD1		
+NKX3-1	protein-protein interactions	MNAT1		
+NOS2	expression	GOT		
+NOS2	expression	NOS2		
+NOS2	inhibition	NOS2		
+NOS2	localization	ALT		
+NOS2	protein-protein interactions	NOS2		
+NOS2	regulation of binding	NOS2		
+NUMA1	protein-protein interactions	Dynein		
+NUMA1	protein-protein interactions	KIF11		
+NUMA1	protein-protein interactions	MDC1		
+ODF2L	protein-protein interactions	NDC80		
+OMA1	expression	GOT		
+OMA1	localization	ALT		
+OMA1	localization	GOT		
+RPA	protein-protein interactions	MDC1		
+RPA	protein-protein interactions	MRE11A		
+RPA	regulation of binding	RPA		
+TH2 Cytokine	inhibition	NOS2		
+mir-199	expression	NOS2		

@@ -1,0 +1,88 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ANKRD28	protein-protein interactions	ANKRD28		
+ANKRD50	protein-protein interactions	ANKRD28		
+CCDC6	activation	PTEN		
+CCDC6	protein-protein interactions	CCDC6		
+CCDC6	translocation	CCDC6		
+GMDS	protein-protein interactions	GMDS		
+LRCH1	protein-protein interactions	ANKRD28		
+LRRTM2	activation	LRRTM2		
+MOB1A	protein-protein interactions	ANKRD28		
+MOB1A	protein-protein interactions	LRCH1		
+MOB1B	protein-protein interactions	ANKRD28		
+MOB1B	protein-protein interactions	LRCH1		
+MOB1B	protein-protein interactions	MOB1A		
+MTM1	localization	MTM1		
+MTMR3	protein-protein interactions	ANKRD28		
+MTMR3	protein-protein interactions	MTMR3		
+PALB2	protein-protein interactions	KLK6		
+PALB2	protein-protein interactions	PALB2		
+PLEKHG1	protein-protein interactions	ANKRD28		
+PTEN	activation	PTEN		
+PTEN	expression	ETV3		
+PTEN	expression	PTEN		
+PTEN	expression	RAD51B		
+PTEN	expression	RAD51C		
+PTEN	expression	RAD51D		
+PTEN	expression	mir-28		
+PTEN	inhibition	PTEN		
+PTEN	molecular cleavage	PTEN		
+PTEN	phosphorylation	PTEN		
+PTEN	protein-protein interactions	CCDC180		
+PTEN	protein-protein interactions	GPC4		
+PTEN	protein-protein interactions	MCCC1		
+PTEN	protein-protein interactions	PTEN		
+PTEN	regulation of binding	PTEN		
+PTEN	transcription	GMDS		
+PTEN	transcription	NDUFC1		
+PTEN	transcription	PTEN		
+PTEN	transcription	TRAM1		
+PTEN	ubiquitination	PTEN		
+PTPN14	protein-protein interactions	MOB1A		
+PTPN14	protein-protein interactions	MOB1B		
+PTPN14	protein-protein interactions	PTEN		
+PTPRD	protein-protein interactions	GPC4		
+PTPRD	protein-protein interactions	LRRTM2		
+PTPRD	protein-protein interactions	PTPRD		
+RAD51B	protein-protein interactions	PALB2		
+RAD51B	protein-protein interactions	RAD51C		
+RAD51B	protein-protein interactions	RAD51D		
+RAD51B	regulation of binding	RAD51C		
+RAD51B	regulation of binding	RAD51D		
+RAD51C	protein-protein interactions	PALB2		
+RAD51C	protein-protein interactions	RAD51B		
+RAD51C	protein-protein interactions	RAD51D		
+RAD51C	regulation of binding	RAD51B		
+RAD51C	regulation of binding	RAD51D		
+RAD51D	protein-protein interactions	PALB2		
+RAD51D	protein-protein interactions	RAD51B		
+RAD51D	protein-protein interactions	RAD51C		
+RNF146	molecular cleavage	PTEN		
+RNF146	protein-protein interactions	PTEN		
+RNF146	protein-protein interactions	RNF146		
+RNF146	ubiquitination	PTEN		
+SHKBP1	protein-protein interactions	ANKRD28		
+SLITRK2	protein-protein interactions	PTPRD		
+SLITRK3	protein-protein interactions	PTPRD		
+TNKS	inhibition	TNKS		
+TNKS	modification	PTEN		
+TNKS	molecular cleavage	PTEN		
+TNKS	protein-protein interactions	ANKRD28		
+TNKS	protein-protein interactions	GMDS		
+TNKS	protein-protein interactions	PTEN		
+TNKS	protein-protein interactions	RNF146		
+TNKS	protein-protein interactions	TNKS		
+TNKS	protein-protein interactions	TNKS2		
+TNKS	ubiquitination	PTEN		
+TNKS2	activation	PTEN		
+TNKS2	modification	PTEN		
+TNKS2	molecular cleavage	PTEN		
+TNKS2	protein-protein interactions	ANKRD28		
+TNKS2	protein-protein interactions	PTEN		
+TNKS2	protein-protein interactions	TNKS2		
+TNKS2	ubiquitination	PTEN		
+ZSWIM7	protein-protein interactions	RAD51D		
+phosphatidylinositol-3-phosphatase	membership	FIG4		
+phosphatidylinositol-3-phosphatase	membership	MTM1		
+phosphatidylinositol-3-phosphatase	membership	MTMR3		
+phosphatidylinositol-3-phosphatase	membership	PTEN		

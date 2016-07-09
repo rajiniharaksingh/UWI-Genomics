@@ -1,0 +1,64 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ERK	activation	ERK		
+ERK	localization	ERK		
+ERK	phosphorylation	ERK		
+ERK	regulation of binding	ERK		
+OSGEP	protein-protein interactions	OSGEP		
+PHYHIP	protein-protein interactions	PHYHIP		
+POP4	protein-protein interactions	POP4		
+POP4	protein-protein interactions	POP7		
+POP4	protein-protein interactions	RPP14		
+POP7	protein-protein interactions	OSGEP		
+POP7	protein-protein interactions	POP4		
+POP7	protein-protein interactions	RPP14		
+POPDC2	protein-protein interactions	PCNXL3		
+PRAME	protein-protein interactions	OSGEP		
+PRAME	protein-protein interactions	PRAME		
+PTRH2	activation	ERK		
+PTRH2	phosphorylation	ERK		
+PTRH2	protein-protein interactions	PHYHIP		
+PTRH2	protein-protein interactions	PTRH2		
+QTRT1	protein-protein interactions	PRAME		
+RASAL3	phosphorylation	ERK		
+RHBDD3	activation	ERK		
+RHBDD3	protein-protein interactions	POPDC2		
+RPP14	protein-protein interactions	POP4		
+RPP14	protein-protein interactions	POP7		
+RPP14	protein-protein interactions	RPP14		
+RPP25	protein-protein interactions	POP4		
+RPP25	protein-protein interactions	POP7		
+RPP25	protein-protein interactions	RPP14		
+RPP25L	protein-protein interactions	POP4		
+RPP25L	protein-protein interactions	POP7		
+RPPH1	protein-protein interactions	POP4		
+RPPH1	protein-protein interactions	POP7		
+RPPH1	protein-protein interactions	RPP25		
+SPRED1	activation	ERK		
+SPRED1	protein-protein interactions	OSGEP		
+SPRY3	protein-protein interactions	SPRY3		
+SPRY4	protein-protein interactions	SPRY3		
+SPRY4	protein-protein interactions	SPRY4		
+STK19	protein-protein interactions	PRAME		
+TESK1	protein-protein interactions	SPRED1		
+TESK1	protein-protein interactions	SPRY3		
+TESK1	protein-protein interactions	SPRY4		
+THEMIS2	activation	ERK		
+THEMIS2	phosphorylation	ERK		
+TMEM160	protein-protein interactions	SCCPDH		
+TMEM255B	protein-protein interactions	PHYHIP		
+TP53RK	protein-protein interactions	OSGEP		
+TP53RK	protein-protein interactions	PRAME		
+TP53RK	protein-protein interactions	STX19		
+TPRKB	protein-protein interactions	OSGEP		
+TPRKB	protein-protein interactions	PRAME		
+TPRKB	protein-protein interactions	TP53RK		
+TPRKB	regulation of binding	TP53RK		
+WDR89	protein-protein interactions	PHYHIP		
+ZNF277	protein-protein interactions	STX19		
+ZNF562	protein-protein interactions	PRAME		
+ZNF562	protein-protein interactions	ZNF561		
+ZNF775	protein-protein interactions	OSGEP		
+ZZEF1	protein-protein interactions	PHYHIP		
+ZZEF1	protein-protein interactions	SCCPDH		
+ZZEF1	protein-protein interactions	TRMT10C		

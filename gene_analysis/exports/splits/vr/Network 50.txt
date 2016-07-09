@@ -1,0 +1,83 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Atrial Natriuretic Peptide	activation	NPR1		
+Atrial Natriuretic Peptide	activation	Nos		
+Atrial Natriuretic Peptide	membership	NPPA		
+Atrial Natriuretic Peptide	membership	NPPC		
+Atrial Natriuretic Peptide	protein-protein interactions	NPR1		
+Calcineurin protein(s)	activation	Calcineurin protein(s)		
+Calcineurin protein(s)	activation	Gata		
+Calcineurin protein(s)	expression	LIN7B		
+Calcineurin protein(s)	expression	NPPA		
+Calcineurin protein(s)	inhibition	NPR1		
+Calcineurin protein(s)	localization	Insulin		
+Calcineurin protein(s)	phosphorylation	Gata		
+GUCY	membership	NPR1		
+Gata	protein-DNA interactions	NPPA		
+Insulin	activation	CYP19		
+Insulin	activation	Nos		
+Insulin	expression	CYP19		
+Insulin	expression	Insulin		
+Insulin	expression	MIR124		
+Insulin	expression	NPR1		
+Insulin	expression	NUCB2		
+Insulin	expression	mir-148		
+Insulin	expression	mir-30		
+Insulin	expression	mir-324		
+Insulin	expression	mir-330		
+Insulin	expression	mir-432		
+Insulin	expression	mir-615		
+Insulin	expression	mir-616		
+Insulin	expression	mir-95		
+Insulin	localization	Insulin		
+Insulin	localization	NUCB2		
+Insulin	translocation	Insulin		
+MIR124	expression	NES		
+MIR124	membership	mir-124		
+MMEL1	molecular cleavage	NPPA		
+MPC2	localization	Insulin		
+MYOZ2	activation	Calcineurin protein(s)		
+MYOZ2	expression	NPPA		
+NCS1	protein-protein interactions	Calcineurin protein(s)		
+NMT1	modification	NCS1		
+NNAT	localization	Insulin		
+NNAT	protein-protein interactions	NHLRC1		
+NPPA	activation	GUCY		
+NPPA	activation	NPR1		
+NPPA	activation	potassium channel		
+NPPA	expression	Atrial Natriuretic Peptide		
+NPPA	expression	NPPA		
+NPPA	inhibition	NPPA		
+NPPA	molecular cleavage	NPR1		
+NPPA	phosphorylation	NPR1		
+NPPA	protein-protein interactions	NPR1		
+NPPA	regulation of binding	NPPA		
+NPPA	regulation of binding	NPR1		
+NPPC	activation	GUCY		
+NPPC	activation	NPR1		
+NPPC	protein-protein interactions	NPR1		
+NPPC	regulation of binding	NPPA		
+NPR1	activation	Calcineurin protein(s)		
+NPR1	activation	GUCY		
+NPR1	activation	Nos		
+NPR1	expression	NPPA		
+NPR1	localization	NPPA		
+NPR1	protein-protein interactions	Atrial Natriuretic Peptide		
+NPR1	protein-protein interactions	NPPA		
+NPR1	protein-protein interactions	NPPC		
+NPR1	regulation of binding	NPPA		
+NPR3	activation	Nos		
+NPR3	activation	potassium channel		
+NPR3	protein-protein interactions	Atrial Natriuretic Peptide		
+NPR3	protein-protein interactions	NPPA		
+NPR3	protein-protein interactions	NPPC		
+NPR3	protein-protein interactions	NPR3		
+NUCB2	localization	Insulin		
+NUCB2	protein-protein interactions	NPR1		
+Nos	activation	Nos		
+Nos	localization	Insulin		
+ODF3L2	protein-protein interactions	NMT1		
+mir-124	localization	Insulin		
+mir-148	expression	MMP15		
+mir-204	expression	Insulin		
+mir-30	expression	Insulin		
+mir-30	expression	NPPA		

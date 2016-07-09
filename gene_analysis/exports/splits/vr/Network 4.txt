@@ -1,0 +1,62 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ADM2	expression	FOS		
+AGAP3	activation	FOS		
+ASL	protein-protein interactions	ASL		
+B4GALNT1	expression	FOS		
+B4GALNT1	protein-protein interactions	B3GALT4		
+B4GALNT1	protein-protein interactions	B4GALNT1		
+CBY1	localization	CBY1		
+CBY1	protein-protein interactions	AGTPBP1		
+CCDC114	protein-protein interactions	C1orf216		
+CCDC158	protein-protein interactions	C1orf216		
+CFAP53	protein-protein interactions	CBY1		
+DIRAS1	protein-protein interactions	AKR1D1		
+FLRT2	protein-protein interactions	FLRT1		
+FLRT2	protein-protein interactions	FLRT2		
+FOS	activation	FOS		
+FOS	activation	Has		
+FOS	expression	AKR1D1		
+FOS	expression	ASL		
+FOS	expression	CERS4		
+FOS	expression	FLRT2		
+FOS	expression	FOS		
+FOS	expression	GAS5		
+FOS	expression	GJB6		
+FOS	localization	FOS		
+FOS	molecular cleavage	FOS		
+FOS	phosphorylation	FOS		
+FOS	protein-DNA interactions	BCL9		
+FOS	protein-DNA interactions	EVX1		
+FOS	protein-DNA interactions	FOS		
+FOS	protein-protein interactions	AGTPBP1		
+FOS	protein-protein interactions	AMY2B		
+FOS	protein-protein interactions	BARX2		
+FOS	protein-protein interactions	CAMSAP2		
+FOS	protein-protein interactions	CCDC158		
+FOS	protein-protein interactions	CYTH4		
+FOS	protein-protein interactions	DET1		
+FOS	protein-protein interactions	ESF1		
+FOS	protein-protein interactions	FAM50A		
+FOS	protein-protein interactions	FOS		
+FOS	regulation of binding	FOS		
+FOS	transcription	FOS		
+FOS	ubiquitination	FOS		
+GNB3	expression	GNB3		
+GNB3	expression	GNG13		
+GNB3	protein-protein interactions	GNAT3		
+GNB3	protein-protein interactions	GNG11		
+GNB3	protein-protein interactions	GNG13		
+GNB3	protein-protein interactions	GNG3		
+GNB3	protein-protein interactions	GNG4		
+GNG11	protein-protein interactions	FOS		
+GNG11	protein-protein interactions	GNB3		
+GNG11	protein-protein interactions	GNG13		
+GNG11	protein-protein interactions	GNG3		
+GNG11	protein-protein interactions	GNG4		
+GNG13	protein-protein interactions	GNAT3		
+GNG13	protein-protein interactions	GNB3		
+GNG13	protein-protein interactions	GNG3		
+GNG13	protein-protein interactions	GNG4		
+GNG3	protein-protein interactions	GNB3		
+GNG3	protein-protein interactions	GNG4		
+GNG4	protein-protein interactions	GNB3		

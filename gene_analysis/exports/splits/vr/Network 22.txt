@@ -1,0 +1,90 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ABCB1	activation	ABCB1		
+ABCB1	expression	ABCB1		
+ABCB1	transcription	ABCB1		
+APOD	protein-protein interactions	APOD		
+BHLHE40	molecular cleavage	BHLHE40		
+BHLHE40	protein-protein interactions	BHLHE40		
+CCNK	expression	GABPB2		
+CCNK	protein-protein interactions	BHLHE40		
+CDPF1	protein-protein interactions	BHLHE40		
+COX5B	protein-protein interactions	BHLHE40		
+COX7A2	protein-protein interactions	COX5B		
+CRYL1	activation	CRYL1		
+CRYL1	phosphorylation	CRYL1		
+CSNK2A2	activation	DVL2		
+CSNK2A2	activation	DVL3		
+CSNK2A2	phosphorylation	DVL2		
+CSNK2A2	phosphorylation	DVL3		
+CSNK2A2	protein-protein interactions	BHLHE40		
+CSNK2A2	protein-protein interactions	CCNL1		
+CSNK2A2	protein-protein interactions	DVL2		
+CSNK2A2	protein-protein interactions	DVL3		
+CTDNEP1	expression	DVL2		
+CTDNEP1	protein-protein interactions	DVL2		
+Cyp2c	activation	Cyp2c		
+Cyp2c	membership	CYP2C9		
+DLK1	protein-protein interactions	ANKRD13C		
+DLK1	protein-protein interactions	CSPG5		
+DLK1	protein-protein interactions	DCAKD		
+DLK1	protein-protein interactions	DLK1		
+DVL2	expression	DVL3		
+DVL2	protein-protein interactions	CSNK2A2		
+DVL2	protein-protein interactions	CTDNEP1		
+DVL2	protein-protein interactions	DVL2		
+DVL2	protein-protein interactions	DVL3		
+DVL2	regulation of binding	DVL2		
+DVL3	molecular cleavage	DVL3		
+DVL3	protein-protein interactions	CCNK		
+DVL3	protein-protein interactions	CSNK2A2		
+DVL3	protein-protein interactions	CTDNEP1		
+DVL3	protein-protein interactions	DVL2		
+DVL3	protein-protein interactions	DVL3		
+DVL3	ubiquitination	DVL3		
+FAM189A2	protein-protein interactions	ABCA3		
+FAM189A2	protein-protein interactions	ANKRD13D		
+FAM189A2	protein-protein interactions	CTDNEP1		
+FAM189A2	protein-protein interactions	DCAKD		
+FAM234B	protein-protein interactions	DLK1		
+FBRS	protein-protein interactions	CSNK2A2		
+FFAR1	expression	FOXA2		
+FNIP2	protein-protein interactions	ATP6V0D1		
+FOXA2	expression	ABCA3		
+FOXA2	expression	ABCB1		
+FOXA2	expression	DLK1		
+FOXA2	expression	FOXA2		
+FOXA2	molecular cleavage	FOXA2		
+FOXA2	protein-DNA interactions	ABCB1		
+FOXA2	protein-DNA interactions	DLK1		
+FOXA2	protein-DNA interactions	FOXA2		
+FOXA2	protein-DNA interactions	HNF1B		
+FOXA2	protein-protein interactions	FOXA2		
+FOXA2	regulation of binding	FOXA2		
+FOXA2	transcription	ABCB1		
+FOXA2	transcription	CYP2C9		
+FOXA2	transcription	DLK1		
+FOXA2	transcription	FOXA2		
+FRMD5	protein-protein interactions	FAM234B		
+GATA6	expression	ATP6V0D1		
+GATA6	expression	CRYL1		
+GATA6	expression	DLK1		
+GATA6	expression	FOXA2		
+GATA6	expression	GATA6		
+GATA6	expression	HNF1B		
+GATA6	protein-DNA interactions	ABCB1		
+GATA6	protein-DNA interactions	FOXA2		
+GATA6	protein-DNA interactions	GATA6		
+GATA6	protein-protein interactions	FOXA2		
+GATA6	transcription	ABCB1		
+HNF1B	expression	BHLHE40		
+HNF1B	protein-DNA interactions	FOXA2		
+HNF1B	protein-DNA interactions	GATA6		
+HNF1B	protein-protein interactions	HNF1B		
+HNF1B	regulation of binding	HNF1B		
+ILKAP	transcription	TCF		
+TCF	activation	TCF		
+TCF	expression	APOD		
+TCF	expression	CRAT		
+TCF	membership	HNF1B		
+TCF	protein-DNA interactions	ABCB1		
+TCF	regulation of binding	TCF		

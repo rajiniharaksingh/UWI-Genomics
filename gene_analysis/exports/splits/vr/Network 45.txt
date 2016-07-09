@@ -1,0 +1,97 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+14-3-3	protein-protein interactions	14-3-3		
+14-3-3	regulation of binding	14-3-3		
+14-3-3	regulation of binding	Importin alpha		
+BET	transcription	KLF1		
+Importin alpha	membership	KPNA2		
+Importin alpha	membership	KPNA5		
+Importin alpha	protein-protein interactions	Importin beta		
+Importin alpha	protein-protein interactions	KPNB1		
+Importin beta	membership	KPNB1		
+Importin beta	protein-protein interactions	Importin alpha		
+Importin beta	regulation of binding	Importin alpha		
+KCTD5	protein-protein interactions	KCTD5		
+KLF1	expression	MPP1		
+KMT2E	protein-protein interactions	KPNB1		
+KPNA2	protein-protein interactions	KIFC1		
+KPNA2	protein-protein interactions	KLF1		
+KPNA2	protein-protein interactions	KPNA2		
+KPNA2	protein-protein interactions	KPNB1		
+KPNA2	regulation of binding	KPNA2		
+KPNA2	regulation of binding	KPNB1		
+KPNA5	protein-protein interactions	KPNB1		
+KPNB1	protein-protein interactions	Importin alpha		
+KPNB1	protein-protein interactions	KIFC1		
+KPNB1	protein-protein interactions	KLF1		
+KPNB1	protein-protein interactions	KPNA2		
+KPNB1	protein-protein interactions	KPNA5		
+KPNB1	protein-protein interactions	KPNB1		
+KPNB1	protein-protein interactions	NUP153		
+KPNB1	protein-protein interactions	NUTF2		
+KPNB1	regulation of binding	Importin alpha		
+KPNB1	regulation of binding	KPNA2		
+KPNB1	regulation of binding	NUP153		
+KPNB1	regulation of binding	NUTF2		
+MAGEH1	protein-protein interactions	KPNA2		
+MORC3	protein-protein interactions	KPNA2		
+NAT6	modification	KPNA2		
+NCAPD2	protein-protein interactions	NCAPD3		
+NCAPD2	protein-protein interactions	NCAPG2		
+NCAPD3	protein-protein interactions	NCAPG2		
+NCAPG2	protein-protein interactions	NCAPD3		
+NEK6	activation	p70 S6k		
+NEK6	phosphorylation	p70 S6k		
+NEK6	protein-protein interactions	KCTD5		
+NEK6	protein-protein interactions	NCAPD2		
+NEK6	protein-protein interactions	NCAPG2		
+NEK6	protein-protein interactions	NEK6		
+NEK7	protein-protein interactions	NEK6		
+NRL	expression	p70 S6k		
+NTS	activation	PLC		
+NTS	activation	p70 S6k		
+NTS	expression	NTS		
+NTS	expression	TSH		
+NTS	phosphorylation	p70 S6k		
+NTS	protein-protein interactions	NTS		
+NUBP1	protein-protein interactions	KIFC1		
+NUP107	expression	NUP153		
+NUP107	protein-protein interactions	KPNB1		
+NUP107	protein-protein interactions	NUP107		
+NUP107	protein-protein interactions	NUP153		
+NUP153	protein-protein interactions	Importin beta		
+NUP153	protein-protein interactions	KIFC1		
+NUP153	protein-protein interactions	KPNA2		
+NUP153	protein-protein interactions	KPNB1		
+NUP153	protein-protein interactions	NUP107		
+NUP153	protein-protein interactions	NUP153		
+NUP88	protein-protein interactions	NUP153		
+NUP88	protein-protein interactions	NUP88		
+NUP93	protein-protein interactions	NEK6		
+NUP93	protein-protein interactions	NUP107		
+NUSAP1	molecular cleavage	NUSAP1		
+NUSAP1	protein-protein interactions	KPNB1		
+NUSAP1	protein-protein interactions	NUP153		
+NUTF2	localization	NUTF2		
+NUTF2	protein-protein interactions	KPNA2		
+NUTF2	protein-protein interactions	KPNA5		
+NUTF2	protein-protein interactions	KPNB1		
+NUTF2	protein-protein interactions	NUP153		
+NUTF2	protein-protein interactions	NUTF2		
+OPTN	activation	OPTN		
+OPTN	localization	OPTN		
+OPTN	protein-protein interactions	MPP1		
+OPTN	protein-protein interactions	NRL		
+OPTN	protein-protein interactions	OPTN		
+Plk	activation	NEK6		
+Plk	activation	NEK7		
+Plk	phosphorylation	NEK6		
+Plk	phosphorylation	NEK7		
+TSH	activation	PLC		
+TSH	activation	p70 S6k		
+TSH	expression	mir-297		
+TSH	phosphorylation	p70 S6k		
+TSH	regulation of binding	TSH		
+p70 S6k	activation	p70 S6k		
+p70 S6k	localization	NTS		
+p70 S6k	phosphorylation	p70 S6k		
+p70 S6k	translocation	p70 S6k		

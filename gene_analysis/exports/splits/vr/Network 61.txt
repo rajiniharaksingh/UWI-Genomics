@@ -1,0 +1,68 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+OXT	activation	OXTR		
+OXT	expression	OXTR		
+OXT	protein-protein interactions	OXTR		
+OXT	regulation of binding	OXTR		
+OXTR	protein-protein interactions	OXT		
+RINT1	protein-protein interactions	RIBC1		
+SDHC	protein-protein interactions	SDHB		
+SFR1	protein-protein interactions	RINT1		
+SGTA	protein-protein interactions	SGTA		
+SIM1	expression	OXT		
+SIM1	expression	ROBO3		
+SIM1	expression	SEMA5B		
+SIM1	expression	SMARCD2		
+SIM1	expression	THEG		
+SIM1	expression	TLX2		
+SIM1	expression	ZG16		
+SIM2	expression	ROBO3		
+SIM2	protein-protein interactions	SGTA		
+SIRT5	activation	succinate dehydrogenase		
+SMARCC1	expression	SMARCE1		
+SMARCC1	protein-DNA interactions	SMARCC1		
+SMARCC1	protein-protein interactions	SMARCC1		
+SMARCC1	protein-protein interactions	SMARCC2		
+SMARCC1	protein-protein interactions	SMARCD2		
+SMARCC1	protein-protein interactions	SMARCD3		
+SMARCC1	protein-protein interactions	SMARCE1		
+SMARCC1	regulation of binding	SMARCE1		
+SMARCC1	ubiquitination	SMARCE1		
+SMARCC2	expression	SMARCE1		
+SMARCC2	protein-protein interactions	SIM2		
+SMARCC2	protein-protein interactions	SMARCC1		
+SMARCC2	protein-protein interactions	SMARCD2		
+SMARCC2	protein-protein interactions	SMARCD3		
+SMARCC2	protein-protein interactions	SMARCE1		
+SMARCD2	protein-protein interactions	SMARCC1		
+SMARCD2	protein-protein interactions	SMARCC2		
+SMARCD2	protein-protein interactions	SMARCD3		
+SMARCD3	activation	succinate dehydrogenase		
+SMARCD3	protein-protein interactions	SMARCC2		
+SMARCE1	expression	SMARCE1		
+SMARCE1	protein-protein interactions	RINT1		
+SMARCE1	protein-protein interactions	SIM2		
+SMARCE1	protein-protein interactions	SMARCC1		
+SMARCE1	protein-protein interactions	SMARCC2		
+SMARCE1	protein-protein interactions	SMARCD2		
+SMARCE1	protein-protein interactions	SMARCD3		
+SOD3	protein-protein interactions	SGTA		
+TMEM174	protein-protein interactions	SGTA		
+TRAP1	inhibition	succinate dehydrogenase		
+TRAP1	protein-protein interactions	succinate dehydrogenase		
+TWSG1	protein-protein interactions	SGTA		
+TXNDC12	protein-protein interactions	SGTA		
+UPK3A	expression	UPK1B		
+UPK3A	modification	UPK1B		
+UPK3A	protein-protein interactions	SGTA		
+UPK3A	protein-protein interactions	UPK1B		
+WBP1L	protein-protein interactions	SGTA		
+XRN1	protein-protein interactions	PRADC1		
+XRN1	protein-protein interactions	SDHB		
+XRN1	protein-protein interactions	SMARCD2		
+XRN1	protein-protein interactions	TMEM50A		
+ZG16	protein-protein interactions	SGTA		
+ZNF697	protein-protein interactions	RINT1		
+ZSWIM8	protein-protein interactions	ROBO3		
+succinate dehydrogenase	membership	SDHB		
+succinate dehydrogenase	membership	SDHC		

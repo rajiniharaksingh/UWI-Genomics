@@ -1,0 +1,68 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+IL12 (family)	expression	mir-139		
+IL12 (family)	expression	mir-34		
+IL12 (family)	expression	mir-342		
+IL12 (family)	localization	IL12 (family)		
+LCN1	protein-protein interactions	KHK		
+LITAF	localization	IL12 (family)		
+LITAF	protein-protein interactions	LITAF		
+LRRC41	protein-protein interactions	LIPH		
+LRRC41	protein-protein interactions	LRRC41		
+LYZ	expression	IL12 (family)		
+LYZ	expression	LYZ		
+LYZ	molecular cleavage	LYZ		
+LYZ	protein-protein interactions	KHK		
+LYZ	protein-protein interactions	LYZ		
+MAP1S	protein-protein interactions	LIPH		
+MARCH1	expression	MARCH1		
+MARCH1	localization	IL12 (family)		
+MARCH1	protein-protein interactions	MARCH1		
+MARCH9	protein-protein interactions	MARCH1		
+MARCH9	protein-protein interactions	MARCH9		
+MEX3C	localization	IL12 (family)		
+MRPL14	expression	MALSU1		
+MRPL14	protein-protein interactions	MALSU1		
+MRPL2	protein-protein interactions	MRPL28		
+MRPL28	protein-protein interactions	MALSU1		
+MRPL28	protein-protein interactions	MRPL14		
+MRPL28	protein-protein interactions	MRPL17		
+MRPL28	protein-protein interactions	MRPL24		
+MRPL28	protein-protein interactions	MRPL27		
+MRPL3	protein-protein interactions	MRPL28		
+MRPL32	protein-protein interactions	MRPL28		
+MRPL34	protein-protein interactions	MRPL28		
+MRPL40	protein-protein interactions	LOC102724828/MRPL23		
+MRPL40	protein-protein interactions	MAP1S		
+MRPL40	protein-protein interactions	MRPL28		
+MRPL46	protein-protein interactions	MRPL28		
+MRPL46	protein-protein interactions	MRPL40		
+MRPL48	protein-protein interactions	MRPL40		
+MRPL48	protein-protein interactions	MRPL46		
+MRPL53	protein-protein interactions	LOC102724828/MRPL23		
+MRPL53	protein-protein interactions	MRPL40		
+MRPL55	protein-protein interactions	MRPL28		
+MRPL55	protein-protein interactions	MRPL46		
+MRPL57	protein-protein interactions	MRPL28		
+MRPS30	protein-protein interactions	LOC102724828/MRPL23		
+MRPS30	protein-protein interactions	MALSU1		
+MRPS30	protein-protein interactions	MRPL14		
+MRPS30	protein-protein interactions	MRPL17		
+MRPS30	protein-protein interactions	MRPL2		
+MRPS30	protein-protein interactions	MRPL24		
+MRPS30	protein-protein interactions	MRPL27		
+MRPS30	protein-protein interactions	MRPL28		
+MRPS30	protein-protein interactions	MRPL3		
+MRPS30	protein-protein interactions	MRPL32		
+MRPS30	protein-protein interactions	MRPL34		
+MRPS30	protein-protein interactions	MRPL40		
+MRPS30	protein-protein interactions	MRPL46		
+MRPS30	protein-protein interactions	MRPL48		
+MRPS30	protein-protein interactions	MRPL53		
+MRPS30	protein-protein interactions	MRPL55		
+MRPS30	protein-protein interactions	MRPL57		
+NAGLU	expression	LYZ		
+NAGLU	localization	LYZ		
+NAGLU	protein-protein interactions	LIPH		
+NUDCD1	protein-protein interactions	LIPH		
+arginase	expression	IL12 (family)		
+mir-34	transcription	mir-34		

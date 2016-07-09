@@ -1,0 +1,79 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ATXN2	expression	PABPC1		
+ATXN2	molecular cleavage	ATXN2		
+ATXN2	protein-protein interactions	PABPC1		
+ATXN2	ubiquitination	ATXN2		
+CAPRIN1	protein-protein interactions	G3BP1		
+CDKL5	phosphorylation	LRRC4C		
+CDKL5	protein-protein interactions	CDKL5		
+CDKL5	protein-protein interactions	LRRC4C		
+CREB3L4	protein-protein interactions	CREB3L4		
+DDX6	protein-protein interactions	ATXN2		
+DDX6	protein-protein interactions	CAPRIN1		
+EIF4E2	protein-protein interactions	DDX6		
+EIF4E2	protein-protein interactions	EIF4E2		
+ENC1	protein-protein interactions	ENC1		
+FXR1	protein-protein interactions	CAPRIN1		
+FXR1	protein-protein interactions	DDX6		
+FXR1	protein-protein interactions	FXR1		
+G3BP1	protein-protein interactions	ATXN2		
+G3BP1	protein-protein interactions	CAPRIN1		
+G3BP1	protein-protein interactions	DDX6		
+G3BP1	protein-protein interactions	G3BP1		
+GIGYF2	protein-protein interactions	CAPRIN1		
+GIGYF2	protein-protein interactions	DDX6		
+GIGYF2	protein-protein interactions	EIF4E2		
+GIGYF2	protein-protein interactions	FXR1		
+GIGYF2	protein-protein interactions	G3BP1		
+HOMEZ	protein-protein interactions	EIF4E2		
+IRF2BPL	protein-protein interactions	HCFC2		
+KLHL20	protein-protein interactions	CDKL5		
+KLHL20	protein-protein interactions	HELZ		
+KLHL20	protein-protein interactions	KLHL20		
+LARP1	expression	PABPC1		
+LARP1	protein-protein interactions	DDX6		
+LARP1	protein-protein interactions	PABPC1		
+LRRC4C	protein-protein interactions	CDKL5		
+LRRC4C	protein-protein interactions	CREB3L4		
+LRRC4C	protein-protein interactions	LRRC4C		
+NKX2-1	expression	CCKAR		
+NKX2-1	expression	CREB3L4		
+NKX2-1	expression	ENC1		
+NKX2-1	expression	HELLS		
+NKX2-1	expression	PNLIPRP1		
+NKX2-1	expression	ROS1		
+NKX2-1	expression	TOX		
+NKX2-1	protein-protein interactions	NKX2-1		
+NKX2-1	regulation of binding	NKX2-1		
+NTNG1	expression	LRRC4C		
+NTNG1	protein-protein interactions	LRRC4C		
+NUFIP2	protein-protein interactions	DDX6		
+NUFIP2	protein-protein interactions	G3BP1		
+NUFIP2	protein-protein interactions	KLHL20		
+PABPC1	protein-protein interactions	ATXN2		
+PABPC1	protein-protein interactions	DDX6		
+PABPC1	protein-protein interactions	G3BP1		
+PABPC1	protein-protein interactions	GIGYF2		
+PABPC1	protein-protein interactions	LARP1		
+PABPC1	protein-protein interactions	PABPC1		
+PCMT1	protein-protein interactions	KLHL20		
+PCMT1	protein-protein interactions	PCMT1		
+SH3RF2	protein-protein interactions	DDX6		
+SH3RF2	protein-protein interactions	G3BP1		
+SH3RF2	protein-protein interactions	HOMEZ		
+SH3RF2	protein-protein interactions	NUFIP2		
+SH3RF2	protein-protein interactions	PCMT1		
+TMEM150A	protein-protein interactions	HELLS		
+UTP18	protein-protein interactions	G3BP1		
+UTP18	protein-protein interactions	HCFC2		
+WDR83	protein-protein interactions	EIF4E2		
+WDR83	protein-protein interactions	GIGYF2		
+WDR83	protein-protein interactions	GPATCH1		
+ZNF140	protein-protein interactions	WDR83		
+ZNF207	protein-protein interactions	CAPRIN1		
+ZNF207	protein-protein interactions	FXR1		
+ZNF207	protein-protein interactions	G3BP1		
+ZNF207	protein-protein interactions	L1TD1		
+ZNF207	protein-protein interactions	NUFIP2		
+ZNF207	protein-protein interactions	PABPC1		

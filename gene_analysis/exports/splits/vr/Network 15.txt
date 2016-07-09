@@ -1,0 +1,48 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+AKIRIN2	expression	CCND1		
+AP4M1	protein-protein interactions	AP4S1		
+AP4S1	protein-protein interactions	AP4M1		
+CCND1	expression	C12orf76		
+CCND1	expression	C15orf57		
+CCND1	expression	CCND1		
+CCND1	expression	CPNE3		
+CCND1	expression	DDIAS		
+CCND1	expression	ERI1		
+CCND1	expression	ESCO2		
+CCND1	expression	FAM83D		
+CCND1	expression	GALNT11		
+CCND1	expression	GPALPP1		
+CCND1	expression	HECTD2		
+CCND1	expression	HIST1H4H		
+CCND1	localization	CCND1		
+CCND1	molecular cleavage	CCND1		
+CCND1	protein-protein interactions	AHSA1		
+CCND1	protein-protein interactions	ARID5B		
+CCND1	protein-protein interactions	BRINP1		
+CCND1	protein-protein interactions	C2CD4C		
+CCND1	protein-protein interactions	CCND1		
+CCND1	protein-protein interactions	DMTF1		
+CCND1	regulation of binding	CCND1		
+CCND1	ubiquitination	CCND1		
+CTAG1A/CTAG1B	expression	CCND1		
+DDX52	protein-protein interactions	AP4M1		
+DDX52	protein-protein interactions	CCND1		
+DMTF1	expression	DMTF1		
+DMTF1	protein-protein interactions	CCND1		
+DPH1	expression	CCND1		
+DPH1	molecular cleavage	CCND1		
+FAM103A1	modification	CCND1		
+FNDC4	protein-protein interactions	ALG10		
+GALNT11	protein-protein interactions	FNDC4		
+GPALPP1	protein-protein interactions	AHSA1		
+ISX	expression	CCND1		
+ISX	molecular cleavage	ISX		
+ISX	protein-DNA interactions	CCND1		
+lysine N-acetyltransferase	membership	ESCO2		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT1		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT11		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT13		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT2		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT3		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT4		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT8		

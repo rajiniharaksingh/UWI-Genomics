@@ -1,0 +1,68 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+MICALL2	protein-protein interactions	MICALL2		
+MICALL2	regulation of binding	MICALL2		
+MINA	protein-protein interactions	MINA		
+MYC	activation	MYC		
+MYC	expression	KHDC3L		
+MYC	expression	LENEP		
+MYC	expression	MGAT1		
+MYC	expression	MINA		
+MYC	expression	MYC		
+MYC	expression	mir-339		
+MYC	inhibition	MYC		
+MYC	localization	MYC		
+MYC	modification	MUM1		
+MYC	molecular cleavage	MYC		
+MYC	phosphorylation	MYC		
+MYC	protein-DNA interactions	MINA		
+MYC	protein-DNA interactions	MYC		
+MYC	protein-protein interactions	LAS1L		
+MYC	protein-protein interactions	MICALL2		
+MYC	protein-protein interactions	MIPEP		
+MYC	protein-protein interactions	MYC		
+MYC	regulation of binding	MYC		
+MYC	transcription	MYC		
+MYC	ubiquitination	MYC		
+MYO9A	protein-protein interactions	MYC		
+MZT2A	protein-protein interactions	MZT2A		
+MZT2B	protein-protein interactions	MYC		
+MZT2B	protein-protein interactions	MZT2A		
+NALP	membership	NLRP10		
+NALP	membership	NLRP11		
+NALP	membership	NLRP13		
+NALP	membership	NLRP2		
+NALP	membership	NLRP4		
+NALP	membership	NLRP5		
+NALP	membership	NLRP6		
+NALP	membership	NLRP9		
+NLR	membership	NLRC5		
+NLR	membership	NLRP10		
+NLR	membership	NLRP2		
+NLR	membership	NLRP4		
+NLR	membership	NLRP5		
+NLR	membership	NLRP6		
+NLR	membership	NLRP9		
+NLR	membership	NOD1		
+NLR	membership	NOD2		
+NLRC5	protein-protein interactions	NLRC5		
+NLRP4	protein-protein interactions	NLRP10		
+NLRP4	protein-protein interactions	NLRP4		
+NLRP5	protein-protein interactions	KHDC3L		
+NOD1	protein-protein interactions	NLRP10		
+NOD1	protein-protein interactions	NOD1		
+NOD2	expression	MCOLN2		
+NOD2	molecular cleavage	NOD2		
+NOD2	protein-protein interactions	NAT16		
+NOD2	protein-protein interactions	NOD1		
+NOD2	protein-protein interactions	NOD2		
+NOD2	regulation of binding	NOD2		
+NOL9	protein-protein interactions	LAS1L		
+NOL9	protein-protein interactions	MYC		
+NPSR1	expression	MYC		
+NSMCE3	transcription	MYC		
+OLFM4	protein-protein interactions	NOD1		
+OLFM4	protein-protein interactions	NOD2		
+OMG	expression	MYC		
+OOEP	protein-protein interactions	KHDC3L		
+OOEP	protein-protein interactions	NLRP5		
+mir-383	expression	MYC		

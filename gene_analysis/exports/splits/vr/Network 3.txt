@@ -1,0 +1,64 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+2-oxoglutarate:oxygen oxidoreductase	membership	ALKBH2		
+2-oxoglutarate:oxygen oxidoreductase	membership	ALKBH3		
+2-oxoglutarate:oxygen oxidoreductase	membership	ALKBH4		
+2-oxoglutarate:oxygen oxidoreductase	membership	C14orf169		
+2-oxoglutarate:oxygen oxidoreductase	membership	EGLN2		
+2-oxoglutarate:oxygen oxidoreductase	membership	HIF1AN		
+AKT1	activation	ACAP1		
+AKT1	activation	AKT1		
+AKT1	activation	C1orf174		
+AKT1	activation	CGNL1		
+AKT1	activation	FAM129A		
+AKT1	expression	AKT1		
+AKT1	expression	C1QC		
+AKT1	expression	HUNK		
+AKT1	inhibition	AKT1		
+AKT1	localization	AKT1		
+AKT1	phosphorylation	ACAP1		
+AKT1	phosphorylation	AKT1		
+AKT1	phosphorylation	C1orf174		
+AKT1	phosphorylation	CGNL1		
+AKT1	phosphorylation	FAM129A		
+AKT1	protein-protein interactions	ACAP1		
+AKT1	protein-protein interactions	AGR3		
+AKT1	protein-protein interactions	AKT1		
+AKT1	protein-protein interactions	FAM129A		
+AKT1	transcription	AKT1		
+AKT1	translocation	AKT1		
+AKT1	ubiquitination	AKT1		
+C14orf169	expression	AKT1		
+C1QC	protein-protein interactions	C1QC		
+C1QL2	protein-protein interactions	C1QL1		
+C1QL4	protein-protein interactions	C1QL1		
+C1QL4	protein-protein interactions	C1QL2		
+C1QL4	protein-protein interactions	C1QL3		
+C1QTNF5	protein-protein interactions	C1QTNF5		
+C1QTNF8	protein-protein interactions	C1QL1		
+CCNI	protein-protein interactions	AKT1		
+DENND3	activation	AKT1		
+EBF2	expression	ADAMTS15		
+EBF2	expression	C1QL3		
+EBF2	expression	FAM129A		
+EBF2	protein-DNA interactions	ADCY3		
+EBF2	protein-protein interactions	EBF2		
+EBF2	transcription	ADAMTS15		
+EBF2	transcription	FAM129A		
+EBF3	protein-DNA interactions	ADCY3		
+EBF3	protein-protein interactions	EBF2		
+EBF3	protein-protein interactions	EBF3		
+EBF4	protein-protein interactions	EBF2		
+EBF4	protein-protein interactions	EBF3		
+EGLN2	molecular cleavage	EGLN2		
+EGLN2	protein-protein interactions	EGLN2		
+EPSTI1	protein-protein interactions	AKT1		
+FAM110C	protein-protein interactions	AKT1		
+FAM129A	protein-protein interactions	AKT1		
+FAM132B	protein-protein interactions	C1QL2		
+FAM132B	protein-protein interactions	C1QTNF5		
+HIF1AN	inhibition	HIF1AN		
+HIF1AN	protein-protein interactions	ANKDD1A		
+HIF1AN	protein-protein interactions	ASB13		
+HIF1AN	protein-protein interactions	HIF1AN		
+HIST1H2BI	protein-protein interactions	AKT1		
+HIST2H2BF	protein-protein interactions	AKT1		

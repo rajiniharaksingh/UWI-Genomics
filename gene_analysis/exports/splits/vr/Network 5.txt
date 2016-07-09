@@ -1,0 +1,39 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ADGRL4	protein-protein interactions	ADGRL4		
+Gpcr	inhibition	Gpcr		
+Gpcr	membership	ADGRA1		
+Gpcr	membership	ADGRF1		
+Gpcr	membership	ADGRF2		
+Gpcr	membership	ADGRF3		
+Gpcr	membership	ADGRF4		
+Gpcr	membership	ADGRL4		
+Gpcr	membership	GPR108		
+Gpcr	membership	GPR135		
+Gpcr	membership	GPR137		
+Gpcr	membership	GPR139		
+Gpcr	membership	GPR141		
+Gpcr	membership	GPR142		
+Gpcr	membership	GPR146		
+Gpcr	membership	GPR148		
+Gpcr	membership	GPR150		
+Gpcr	membership	GPR153		
+Gpcr	membership	GPR157		
+Gpcr	membership	GPR160		
+Gpcr	membership	GPR173		
+Gpcr	membership	GPR176		
+Gpcr	membership	GPR179		
+Gpcr	membership	GPR180		
+Gpcr	membership	GPR19		
+Gpcr	membership	GPR20		
+Gpcr	membership	GPR22		
+Gpcr	membership	GPR27		
+Gpcr	membership	GPR32		
+Gpcr	membership	GPR45		
+Gpcr	membership	GPR62		
+Gpcr	membership	GPR82		
+Gpcr	membership	GPR85		
+Gpcr	membership	GPR87		
+Gpcr	membership	GPR88		
+Gpcr	membership	GPRC5D		
+Gpcr	phosphorylation	Gpcr		
+Gpcr	regulation of binding	Gpcr		

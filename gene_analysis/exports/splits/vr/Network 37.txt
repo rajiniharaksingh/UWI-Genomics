@@ -1,0 +1,80 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+KDM5B	expression	KLHDC10		
+KDM5B	expression	LIMCH1		
+KDM5B	expression	MT1E		
+KDM5B	expression	MT1H		
+KDM5B	expression	MT1X		
+KDM5B	expression	NEFL		
+KDM5B	protein-DNA interactions	MT1H		
+KDM5B	protein-DNA interactions	MT1X		
+KIF5A	localization	NEFH		
+KIF5A	localization	NEFL		
+KIF5A	protein-protein interactions	KIF5C		
+KIF5C	activation	KIF5C		
+KIF5C	protein-protein interactions	KIF5A		
+KIF5C	protein-protein interactions	KIF5C		
+KLHDC10	protein-protein interactions	KLHDC10		
+KLHL15	protein-protein interactions	KLHL15		
+KPTN	protein-protein interactions	KIF5C		
+KPTN	protein-protein interactions	KLHL15		
+LIMCH1	protein-protein interactions	KLHL15		
+MAGEA9/MAGEA9B	protein-protein interactions	MAGEA1		
+MAGEB6	protein-protein interactions	MAGEA1		
+MID1	activation	MID1		
+MID1	phosphorylation	MID1		
+MID1	protein-protein interactions	MID1		
+MIEF1	protein-RNA interactions	MID1		
+MIEF1	protein-protein interactions	MAB21L2		
+MIEF1	protein-protein interactions	MAGEA1		
+MIEF1	protein-protein interactions	MIEF1		
+MTA1	protein-protein interactions	KDM5B		
+MTA1	protein-protein interactions	MBD3L1		
+MTA1	protein-protein interactions	MBD3L3 (includes others)		
+MTA1	protein-protein interactions	MBD6		
+MTA2	protein-protein interactions	KDM5B		
+MTA2	protein-protein interactions	MBD3L1		
+MTA2	protein-protein interactions	MBD3L3 (includes others)		
+MTA2	protein-protein interactions	MBD6		
+MTA2	protein-protein interactions	MTA1		
+MTA2	protein-protein interactions	MTA2		
+MTBP	inhibition	MTBP		
+MTBP	protein-protein interactions	MBD6		
+MTBP	protein-protein interactions	MTA1		
+MTBP	protein-protein interactions	MTA2		
+Mi2	protein-protein interactions	KDM5B		
+Mi2	protein-protein interactions	MBD3L1		
+NAGK	protein-protein interactions	LIMCH1		
+NAGK	protein-protein interactions	NAGK		
+NEFH	expression	NEFL		
+NEFH	localization	NEFH		
+NEFH	localization	NEFL		
+NEFH	protein-protein interactions	NEFL		
+NEFH	protein-protein interactions	NEFM		
+NEFL	localization	NEFH		
+NEFL	localization	NEFL		
+NEFL	localization	NEFM		
+NEFL	protein-protein interactions	NEFH		
+NEFL	protein-protein interactions	NEFL		
+NEFL	protein-protein interactions	NEFM		
+NEFM	protein-protein interactions	LURAP1L		
+NEFM	protein-protein interactions	NEFL		
+NSMCE1	protein-protein interactions	MAGEA1		
+NSMCE1	protein-protein interactions	MAGEF1		
+NSMCE1	protein-protein interactions	NSMCE1		
+Rab11	activation	Rab11		
+Rab11	activation	Rac		
+Rab11	protein-protein interactions	KIF5A		
+Rac	localization	Rac		
+Rac	protein-protein interactions	Rac		
+Rac	regulation of binding	Rac		
+Rho gdi	modification	Rac		
+Rho gdi	protein-protein interactions	Rab11		
+Rho gdi	protein-protein interactions	Rac		
+Rho gdi	protein-protein interactions	Rho gdi		
+Rho gdi	regulation of binding	Rac		
+Rho gdi	regulation of binding	Rho gdi		
+mir-137	RNA-RNA interactions: microRNA targeting	NEFL		
+mir-137	expression	NEFL		
+tubulin (family)	protein-protein interactions	MID1		
+tubulin (family)	protein-protein interactions	MTBP		
+tubulin (family)	protein-protein interactions	NEFH		

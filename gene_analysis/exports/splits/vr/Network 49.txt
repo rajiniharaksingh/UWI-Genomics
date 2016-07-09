@@ -1,0 +1,62 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Actin	activation	Myosin2		
+Actin	localization	Actin		
+Actin	localization	Mucin		
+Actin	localization	Myosin2		
+Actin	protein-protein interactions	Actin		
+Actin	regulation of binding	Actin		
+Actin	translocation	Actin		
+Iga	protein-protein interactions	MBL2		
+Iga	regulation of binding	Iga		
+Iga	regulation of binding	MBL2		
+Iga	translocation	Iga		
+KXD1	protein-protein interactions	KRT81		
+LGALS2	expression	IgG2b		
+LGALS2	expression	Igg3		
+LGALS2	protein-protein interactions	LGALS2		
+LGALS4	protein-protein interactions	KIAA1549		
+LGALS4	protein-protein interactions	LGALS2		
+LRRC45	protein-protein interactions	KXD1		
+MALT1	localization	IgG2b		
+MALT1	localization	Iga		
+MALT1	localization	Igg3		
+MALT1	protein-protein interactions	MALT1		
+MALT1	regulation of binding	MALT1		
+MARS	regulation of binding	MARS		
+MBL2	protein-protein interactions	Iga		
+MBL2	protein-protein interactions	MBL2		
+MBL2	regulation of binding	Iga		
+MCRS1	protein-protein interactions	KXD1		
+MRFAP1L1	protein-protein interactions	MRFAP1		
+MRFAP1L1	protein-protein interactions	MRFAP1L1		
+MRGBP	protein-protein interactions	Actin		
+MRGBP	protein-protein interactions	MRFAP1		
+MSL1	protein-protein interactions	MCRS1		
+MSL1	protein-protein interactions	MRGBP		
+MSL3	protein-protein interactions	MCRS1		
+MSL3	protein-protein interactions	MSL1		
+MUC4	expression	Mucin		
+MYO5B	protein-protein interactions	Actin		
+MYO5B	protein-protein interactions	KIAA1549		
+MYO5B	protein-protein interactions	LRRC39		
+Mucin	membership	MUC12		
+Mucin	membership	MUC2		
+Mucin	membership	MUC4		
+Mucin	membership	MUC5AC		
+Mucin	membership	MUC6		
+Mucin	protein-protein interactions	Iga		
+Myosin2	activation	Myosin2		
+NIPAL3	expression	Iga		
+OPHN1	protein-protein interactions	Actin		
+RNA polymerase I	expression	MARS		
+RNA polymerase I	protein-protein interactions	MYO5B		
+SRC (family)	activation	SRC (family)		
+SRC (family)	expression	MUC4		
+SRC (family)	phosphorylation	SRC (family)		
+SRC (family)	regulation of binding	SRC (family)		
+c-Src	expression	c-Src		
+c-Src	expression	mir-23		
+mir-150	expression	IgG2b		
+mir-150	expression	Iga		
+mir-150	expression	mir-150		
+mir-23	expression	SRC (family)		

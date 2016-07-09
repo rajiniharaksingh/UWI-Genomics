@@ -1,0 +1,80 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Hedgehog	expression	MAFA		
+Hedgehog	expression	NEUROD1		
+Hedgehog	expression	NEUROG3		
+Hedgehog	expression	NKX6-1		
+Hedgehog	localization	Proinsulin		
+LDB2	ubiquitination	LDB2		
+LHX2	expression	NCAM2		
+LHX2	expression	NEUROD1		
+LHX2	expression	OMP		
+LHX2	expression	OR4C3		
+LHX2	protein-protein interactions	LDB2		
+LHX4	protein-protein interactions	LDB2		
+LHX5	protein-protein interactions	LDB2		
+LHX6	protein-DNA interactions	LHX6		
+LHX6	transcription	LHX6		
+LIME1	activation	Mapk		
+LMO1	protein-protein interactions	LDB2		
+LMX1B	protein-protein interactions	LDB2		
+LRRN3	activation	Mapk		
+LRRN3	phosphorylation	Mapk		
+LYL1	protein-protein interactions	LMO1		
+MAFA	expression	Proinsulin		
+MAFA	localization	Proinsulin		
+MAFA	molecular cleavage	MAFA		
+MAFB	expression	MAFB		
+MAFB	expression	NKX6-1		
+MAFB	protein-DNA interactions	MAFA		
+MAFB	protein-protein interactions	MAFB		
+MIA	activation	Mapk		
+MIA	transcription	MIA		
+MIDN	localization	Proinsulin		
+MNX1	expression	NKX2-2		
+MNX1	localization	NKX6-1		
+Mapk	expression	OLIG2		
+Mapk	translocation	Mapk		
+NEK10	activation	Mapk		
+NEUROD1	expression	NEUROD1		
+NEUROD1	expression	NEUROD2		
+NEUROD1	expression	NEUROG3		
+NEUROD1	expression	NKX2-2		
+NEUROD1	expression	NKX6-1		
+NEUROD1	expression	Proinsulin		
+NEUROD1	localization	Proinsulin		
+NEUROD1	protein-DNA interactions	MAFA		
+NEUROD1	protein-DNA interactions	Proinsulin		
+NEUROD1	protein-protein interactions	MAFA		
+NEUROD1	protein-protein interactions	MIXL1		
+NEUROD1	protein-protein interactions	NEUROD1		
+NEUROD2	expression	NEUROD2		
+NEUROG3	activation	NKX2-2		
+NEUROG3	expression	LHX4		
+NEUROG3	expression	LHX6		
+NEUROG3	expression	MAFA		
+NEUROG3	expression	MNX1		
+NEUROG3	expression	NEUROD1		
+NEUROG3	expression	NEUROD2		
+NEUROG3	expression	NEUROG3		
+NEUROG3	expression	NHLH1		
+NEUROG3	expression	NKX2-2		
+NEUROG3	expression	NKX2-4		
+NEUROG3	expression	NKX6-1		
+NEUROG3	localization	Proinsulin		
+NEUROG3	protein-DNA interactions	NEUROD1		
+NHLH1	protein-protein interactions	LMO1		
+NKX2-2	activation	NEUROG3		
+NKX2-2	expression	NKX6-1		
+NKX2-2	protein-DNA interactions	NKX6-1		
+NKX6-1	expression	MAFA		
+NKX6-1	localization	Proinsulin		
+NKX6-1	protein-DNA interactions	MAFA		
+NUDT22	protein-protein interactions	LHX6		
+NUTM1	protein-protein interactions	LMO1		
+OLIG2	activation	NEUROG3		
+OLIG2	protein-protein interactions	NKX2-2		
+OLIG2	protein-protein interactions	OLIG2		
+OMP	protein-protein interactions	OMP		
+SOX2-OCT4-NANOG	expression	LHX5		
+mir-130	RNA-RNA interactions: microRNA targeting	MAFB		
+mir-130	expression	MAFB		

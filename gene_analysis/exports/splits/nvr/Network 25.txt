@@ -1,0 +1,60 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ADRB2	expression	RAB4		
+ADRB2	inhibition	ADRB2		
+ADRB2	localization	ADRB2		
+ADRB2	protein-protein interactions	ADRB2		
+ADRB2	protein-protein interactions	AKR7A2		
+ADRB2	protein-protein interactions	ARL8B		
+ADRB2	protein-protein interactions	HMGCL		
+ADRB2	regulation of binding	ADRB2		
+ADRB2	translocation	ADRB2		
+ADRB2	ubiquitination	ADRB2		
+AKR7A2	protein-protein interactions	AKR7A2		
+AKR7A3	protein-protein interactions	AKR7A2		
+AKR7A3	protein-protein interactions	AKR7A3		
+AKR7L	protein-protein interactions	AKR7A3		
+ARRDC4	protein-protein interactions	ADRB2		
+Afar	membership	AKR7A2		
+Afar	membership	AKR7A3		
+CLGN	protein-protein interactions	ADRB2		
+CLGN	protein-protein interactions	CCDC47		
+EMC1	protein-protein interactions	CCDC47		
+ETFB	protein-protein interactions	ADRB2		
+HMGCL	protein-protein interactions	FPGS		
+KTN1	protein-protein interactions	CCDC47		
+KTN1	protein-protein interactions	EMC1		
+MARCH2	molecular cleavage	ADRB2		
+MARCH2	protein-protein interactions	ADRB2		
+MARCH2	ubiquitination	ADRB2		
+MARCH3	protein-protein interactions	MARCH2		
+MLXIP	protein-DNA interactions	ARRDC4		
+PCCA	protein-protein interactions	ADRB2		
+PITPNB	protein-protein interactions	ADRB2		
+PTGES2	protein-protein interactions	ADRB2		
+PTGES2	protein-protein interactions	PTGES2		
+RAB3GAP2	protein-protein interactions	ADRB2		
+RAP2C	protein-protein interactions	ADRB2		
+RGS17	protein-protein interactions	ADRB2		
+SORBS2	protein-protein interactions	ADRB2		
+SORBS2	protein-protein interactions	SORBS2		
+STK11IP	protein-protein interactions	CLGN		
+SYNJ2BP	protein-protein interactions	ADRB2		
+SYNJ2BP	protein-protein interactions	SORBS2		
+TMBIM4	protein-protein interactions	CCDC47		
+TMBIM4	protein-protein interactions	EMC1		
+TMCO1	protein-protein interactions	TMBIM4		
+TMEM237	protein-protein interactions	CCDC47		
+TMEM237	protein-protein interactions	EMC1		
+TMEM237	protein-protein interactions	KTN1		
+TMEM33	protein-protein interactions	ADRB2		
+UBXN8	protein-protein interactions	ADRB2		
+UGGT1	protein-protein interactions	ADRB2		
+UGGT1	protein-protein interactions	CLGN		
+UGGT1	protein-protein interactions	STK11IP		
+UNC93B1	protein-protein interactions	CCDC47		
+UNC93B1	protein-protein interactions	CLGN		
+UNC93B1	protein-protein interactions	STK11IP		
+UNC93B1	protein-protein interactions	TMCO1		
+UNC93B1	protein-protein interactions	UGGT1		
+YIPF5	protein-protein interactions	UNC93B1		

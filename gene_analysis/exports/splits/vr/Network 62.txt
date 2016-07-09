@@ -1,0 +1,60 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+PDGFA	protein-protein interactions	PDGFA		
+PELP1	expression	PSAT1		
+PELP1	expression	TCN2		
+PELP1	expression	ZNF804A		
+PELP1	localization	PELP1		
+PELP1	localization	WDR18		
+PELP1	protein-protein interactions	WDR18		
+PELP1	regulation of binding	PELP1		
+RCN1	protein-protein interactions	PTRH1		
+RPL13	protein-protein interactions	PELP1		
+RPS2	protein-protein interactions	PELP1		
+RPS2	protein-protein interactions	REPIN1		
+RRP12	protein-protein interactions	RPL6		
+RRP12	protein-protein interactions	RPS2		
+RRP1B	expression	RPL13		
+RRP1B	expression	RPL6		
+RRP1B	expression	SPP1		
+RRP1B	protein-protein interactions	RCN1		
+RRP1B	protein-protein interactions	RRP1B		
+SMN1/SMN2	expression	SMN1/SMN2		
+SMN1/SMN2	protein-protein interactions	RBBP6		
+SMN1/SMN2	protein-protein interactions	RPL13		
+SMN1/SMN2	protein-protein interactions	RPL6		
+SMN1/SMN2	protein-protein interactions	RPS2		
+SMN1/SMN2	protein-protein interactions	SMN1/SMN2		
+SPP1	expression	PDGFA		
+SPP1	expression	SEMA6C		
+SPP1	expression	SLC35C2		
+SPP1	expression	SLIT1		
+SPP1	expression	SPP1		
+SPP1	localization	SPP1		
+SPP1	molecular cleavage	SPP1		
+SPP1	protein-protein interactions	RBBP6		
+SPP1	protein-protein interactions	RPL13		
+SPP1	regulation of binding	SPP1		
+TMEM168	protein-protein interactions	SPP1		
+USP42	protein-protein interactions	SPP1		
+UTP3	protein-protein interactions	RPS2		
+VitaminD3-VDR-RXR	expression	PDGFA		
+VitaminD3-VDR-RXR	expression	SPP1		
+WBSCR16	protein-protein interactions	RBBP6		
+WDR18	localization	PELP1		
+WDR18	protein-protein interactions	PELP1		
+WDR18	protein-protein interactions	SMN1/SMN2		
+WDR18	protein-protein interactions	USP42		
+YBEY	protein-protein interactions	RPS2		
+YBEY	protein-protein interactions	TSGA10IP		
+YBX2	protein-RNA interactions	SMN1/SMN2		
+YBX2	protein-RNA interactions	SPATA19		
+YBX2	protein-RNA interactions	SPPL2C		
+YBX2	protein-RNA interactions	UBQLN3		
+YBX2	protein-RNA interactions	YBX2		
+YBX2	protein-protein interactions	RPS2		
+YME1L1	protein-protein interactions	RCN1		
+ZNF431	protein-protein interactions	SMN1/SMN2		
+ZNF574	protein-protein interactions	RPS2		
+ZNF804A	protein-protein interactions	SPP1		
+ZYG11B	protein-protein interactions	TSGA10IP		

@@ -1,0 +1,25 @@
+Chromosome 1 -> 73974575		 Normalized Percentage: 0.407998584222
+Chromosome 2 -> 77286232		 Normalized Percentage: 0.394502846031
+Chromosome 3 -> 64576003		 Normalized Percentage: 0.390116554383
+Chromosome 4 -> 60417556		 Normalized Percentage: 0.376713154755
+Chromosome 5 -> 58175391		 Normalized Percentage: 0.387257289831
+Chromosome 6 -> 53320897		 Normalized Percentage: 0.38752016659
+Chromosome 7 -> 56216011		 Normalized Percentage: 0.400016299224
+Chromosome 8 -> 46990969		 Normalized Percentage: 0.394981820368
+Chromosome 9 -> 41124927		 Normalized Percentage: 0.399651211985
+Chromosome 10 -> 44800364		 Normalized Percentage: 0.406940288429
+Chromosome 11 -> 44459319		 Normalized Percentage: 0.406509483213
+Chromosome 12 -> 43649052		 Normalized Percentage: 0.399530540961
+Chromosome 13 -> 30732830		 Normalized Percentage: 0.37612333859
+Chromosome 14 -> 29378412		 Normalized Percentage: 0.399502539419
+Chromosome 15 -> 29758550		 Normalized Percentage: 0.41396186694
+Chromosome 16 -> 30862034		 Normalized Percentage: 0.435567841981
+Chromosome 17 -> 30829666		 Normalized Percentage: 0.447493065306
+Chromosome 18 -> 24619929		 Normalized Percentage: 0.389828533536
+Chromosome 19 -> 23695019		 Normalized Percentage: 0.475855221802
+Chromosome 20 -> 23258430		 Normalized Percentage: 0.433022475067
+Chromosome 21 -> 12176901		 Normalized Percentage: 0.395668934999
+Chromosome 22 -> 15020134		 Normalized Percentage: 0.466196203781
+Chromosome X -> 41098905		 Normalized Percentage: 0.386237306445
+Chromosome Y -> 6663034		 Normalized Percentage: 0.380385259852
+TOTAL: 963085140		 Normalized Percentage: 0.400862996635

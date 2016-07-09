@@ -1,0 +1,57 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+KCTD12	protein-protein interactions	KCTD12		
+KIF2C	activation	KIF2C		
+KIF2C	localization	KIF2C		
+KIF2C	protein-protein interactions	KIF2C		
+KIF4A	protein-protein interactions	KIF2C		
+KIF4A	protein-protein interactions	KIF4A		
+LCA5	protein-protein interactions	KCTD12		
+LCA5	protein-protein interactions	KIAA0753		
+LCA5	protein-protein interactions	KNOP1		
+MAPRE1	localization	MAPRE1		
+MAPRE1	protein-protein interactions	KIF18B		
+MAPRE1	protein-protein interactions	KIF2C		
+MAPRE1	protein-protein interactions	LCA5		
+MAPRE1	protein-protein interactions	MAPRE1		
+MAPRE1	protein-protein interactions	MLPH		
+MAPRE1	regulation of binding	MLPH		
+MAPRE3	localization	KIF3C		
+MAPRE3	protein-protein interactions	KIF2C		
+MAPRE3	protein-protein interactions	KIF3C		
+MAPRE3	protein-protein interactions	MAPRE1		
+MLPH	protein-protein interactions	MAPRE1		
+MRPS18C	protein-protein interactions	MRPS11		
+MYRIP	protein-protein interactions	MAPRE1		
+NAP1L4	protein-protein interactions	LARP7		
+NAP1L4	protein-protein interactions	LCA5		
+NAP1L4	protein-protein interactions	NAP1L4		
+NOL12	protein-protein interactions	KIAA1191		
+NOL12	protein-protein interactions	KNOP1		
+NOL12	protein-protein interactions	LARP7		
+NOL12	protein-protein interactions	MRPS11		
+NOL12	protein-protein interactions	MRPS18C		
+NOL12	protein-protein interactions	NLE1		
+NPM3	protein-protein interactions	LARP7		
+NPM3	protein-protein interactions	NAP1L4		
+NR2E1	expression	Vegf		
+OFD1	protein-protein interactions	KIAA0753		
+OFD1	protein-protein interactions	LCA5		
+OFD1	protein-protein interactions	MAPRE1		
+OFD1	protein-protein interactions	MB21D2		
+OFD1	protein-protein interactions	NAP1L4		
+OFD1	protein-protein interactions	OFD1		
+Vegf	expression	KIAA1671		
+Vegf	expression	KIF2C		
+Vegf	expression	LOC254896		
+Vegf	expression	LRIG1		
+Vegf	expression	LY75		
+Vegf	expression	MALL		
+Vegf	expression	MAPKAPK5-AS1		
+Vegf	expression	MPHOSPH10		
+Vegf	expression	NRCAM		
+Vegf	expression	NRROS		
+Vegf	expression	Vegf		
+Vegf	molecular cleavage	OPTC		
+Vegf	regulation of binding	Vegf		
+Vegf	translocation	Vegf		
+mir-9	expression	NR2E1		

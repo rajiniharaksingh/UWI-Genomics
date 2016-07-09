@@ -1,0 +1,57 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+APIP	protein-protein interactions	APIP		
+ASB5	protein-protein interactions	ASB1		
+BRF1	protein-protein interactions	BDP1		
+CASQ2	expression	CASQ2		
+CASQ2	localization	CASQ2		
+CASQ2	protein-protein interactions	ASB1		
+CELA2A	activation	F2RL1		
+CFAP206	protein-protein interactions	APIP		
+CFAP206	protein-protein interactions	CFAP206		
+CHP1	protein-protein interactions	BRF2		
+CLN3	protein-protein interactions	C19orf70		
+CLN3	protein-protein interactions	CALU		
+CLN3	protein-protein interactions	CDS2		
+CLN5	protein-protein interactions	CALU		
+CLN5	protein-protein interactions	CDS2		
+CLN5	protein-protein interactions	CLN3		
+DEDD2	protein-protein interactions	DEDD2		
+DEDD2	protein-protein interactions	GTF3C3		
+DEDD2	translocation	GTF3C3		
+EIF1AD	protein-protein interactions	CCDC87		
+EPB41L4B	protein-protein interactions	CASQ2		
+EPB41L5	protein-protein interactions	CASQ2		
+F2RL1	expression	F2RL1		
+F2RL1	expression	GBP4		
+F2RL1	regulation of binding	F2RL1		
+FAN1	protein-protein interactions	FAN1		
+FANCI	protein-protein interactions	BRF2		
+FANCI	protein-protein interactions	CLN3		
+FANCI	protein-protein interactions	FAN1		
+GCN1	protein-protein interactions	ASB5		
+GCN1	protein-protein interactions	BRF2		
+GCN1	protein-protein interactions	CLN3		
+GEMIN4	protein-protein interactions	BRF2		
+GEMIN4	protein-protein interactions	CLN3		
+GEMIN4	protein-protein interactions	F2RL1		
+GEMIN4	protein-protein interactions	GEMIN4		
+GEMIN6	protein-protein interactions	F2RL1		
+GEMIN6	protein-protein interactions	GEMIN4		
+GEMIN6	protein-protein interactions	GEMIN7		
+GEMIN7	protein-protein interactions	GEMIN4		
+GEMIN7	protein-protein interactions	GEMIN6		
+GLTSCR2	protein-protein interactions	CASQ2		
+GLYR1	protein-protein interactions	CAPNS2		
+GLYR1	protein-protein interactions	CFAP206		
+GLYR1	protein-protein interactions	EIF1AD		
+GLYR1	protein-protein interactions	GEMIN4		
+GTF3C3	protein-protein interactions	BRF1		
+GTF3C3	protein-protein interactions	CASQ2		
+GTF3C3	protein-protein interactions	DEDD2		
+GTF3C6	protein-protein interactions	GTF3C3		
+RNA polymerase iii	protein-protein interactions	BRF1		
+RNA polymerase iii	protein-protein interactions	BRF2		
+TFIIB	activation	RNA polymerase iii		
+TFIIB	membership	BDP1		
+TFIIB	membership	BRF1		
+TFIIB	membership	BRF2		
