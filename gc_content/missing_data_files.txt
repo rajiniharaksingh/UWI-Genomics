@@ -1,0 +1,2 @@
+CpG_Island_NVR_each_range_normalized.txtCpG_Island_NVR_each_range.txtCpG_Island_VR_each_range_normalized.txtCpG_Island_VR_each_range.txt
+GC_content_NVR_each_range.txtGC_content_VR_each_range.txt

@@ -1,0 +1,70 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+CD3	activation	TCR		
+CD3	expression	NAGA		
+CD3	expression	NPIPA8 (includes others)		
+CD3	expression	TCR		
+CD3	localization	TCR		
+CD3	modification	Histone h3		
+CD3	protein-protein interactions	CD3		
+CD3	protein-protein interactions	TCR		
+Histone h3	activation	Histone h3		
+Histone h3	modification	Histone h3		
+Histone h3	phosphorylation	Histone h3		
+Histone h3	protein-DNA interactions	NANOG		
+Hsp70	expression	Hsp70		
+Hsp70	protein-protein interactions	Histone h3		
+Hsp70	protein-protein interactions	Hsp70		
+Hsp70	transcription	Hsp70		
+Hsp70	translocation	Hsp70		
+LGR4	protein-protein interactions	KIAA1429		
+LGR4	protein-protein interactions	LGR4		
+MYB	activation	MYB		
+MYB	expression	MYB		
+MYB	modification	Histone h3		
+MYB	modification	MYB		
+MYB	molecular cleavage	MYB		
+MYB	protein-DNA interactions	MYB		
+MYB	transcription	Hsp70		
+MYB	transcription	MIMT1		
+MYB	ubiquitination	MYB		
+NAB1	modification	Histone h3		
+NANOG	expression	LINC00094		
+NANOG	expression	LPCAT4		
+NANOG	expression	NANOG		
+NANOG	expression	NPIPA8 (includes others)		
+NANOG	expression	NSUN5P2		
+NANOG	protein-DNA interactions	NANOG		
+NANOG	protein-DNA interactions	NKX2-3		
+NANOG	protein-DNA interactions	ONECUT1		
+NANOG	protein-protein interactions	KIAA1429		
+NANOG	protein-protein interactions	NANOG		
+NBPF15 (includes others)	protein-protein interactions	MYB		
+NBPF3	protein-protein interactions	NBPF15 (includes others)		
+NBPF3	protein-protein interactions	NBPF3		
+NKX2-3	expression	LINC01235		
+NKX2-3	expression	MCMDC2		
+NKX2-3	expression	MT1M		
+NKX2-3	expression	MTURN		
+NKX2-3	expression	NT5DC2		
+NT5DC2	protein-protein interactions	METTL12		
+NUPL2	expression	Hsp70		
+ONECUT1	protein-DNA interactions	KDM8		
+ONECUT1	protein-DNA interactions	KRTAP1-1		
+ONECUT1	protein-DNA interactions	LRIG2		
+ONECUT1	protein-DNA interactions	LSG1		
+ONECUT1	protein-DNA interactions	MFSD1		
+ONECUT1	protein-DNA interactions	OGFR		
+ONECUT1	protein-DNA interactions	ONECUT1		
+TCR	activation	CD3		
+TCR	expression	LPIN2		
+TCR	membership	CD3		
+TCR	modification	Histone h3		
+TCR	phosphorylation	CD3		
+TCR	protein-protein interactions	CD3		
+TCR	protein-protein interactions	MR1		
+TCR	regulation of binding	CD3		
+TCR	regulation of binding	TCR		
+TCR	translocation	TCR		
+mir-142	RNA-RNA interactions: microRNA targeting	MYB		
+mir-142	expression	Hsp70		
+mir-142	expression	MYB		

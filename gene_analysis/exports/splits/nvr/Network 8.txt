@@ -1,0 +1,48 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ESR1	activation	ESR1		
+ESR1	expression	AASS		
+ESR1	expression	ANO10		
+ESR1	expression	ATP11A		
+ESR1	expression	CALML4		
+ESR1	expression	CLIC3		
+ESR1	expression	CRIM1		
+ESR1	expression	DCDC2		
+ESR1	expression	ENY2		
+ESR1	expression	ESR1		
+ESR1	expression	FGD5		
+ESR1	expression	HACD1		
+ESR1	expression	KCNJ13		
+ESR1	expression	KLF3-AS1		
+ESR1	expression	METTL7A		
+ESR1	expression	MND1		
+ESR1	expression	MTL5		
+ESR1	expression	RAB11FIP4		
+ESR1	expression	RERG		
+ESR1	expression	SEC22C		
+ESR1	expression	SETD5		
+ESR1	expression	TC2N		
+ESR1	expression	TMPRSS3		
+ESR1	expression	TSPAN9		
+ESR1	expression	TTC9		
+ESR1	expression	TTLL11		
+ESR1	expression	UBL3		
+ESR1	expression	ZNF367		
+ESR1	inhibition	ESR1		
+ESR1	localization	ESR1		
+ESR1	localization	Mta		
+ESR1	molecular cleavage	ESR1		
+ESR1	phosphorylation	ESR1		
+ESR1	protein-DNA interactions	ESR1		
+ESR1	protein-protein interactions	ALKBH7		
+ESR1	protein-protein interactions	ARFGAP2		
+ESR1	protein-protein interactions	CHD9		
+ESR1	protein-protein interactions	ESR1		
+ESR1	regulation of binding	ESR1		
+ESR1	transcription	ESR1		
+ESR1	transcription	FAM102A		
+ESR1	ubiquitination	ESR1		
+PUS1	protein-protein interactions	ESR1		
+RAB11FIP4	protein-protein interactions	RAB11FIP4		
+TMPRSS3	protein-protein interactions	TMED7		
+ZNF366	protein-protein interactions	ESR1		

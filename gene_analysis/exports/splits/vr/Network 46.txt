@@ -1,0 +1,69 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Cdk	activation	Cdk		
+Cdk	protein-protein interactions	Cyclin A		
+Cyclin A	activation	Cyclin A		
+Cyclin A	inhibition	Cyclin A		
+Cyclin A	protein-protein interactions	Cdk		
+Cyclin A	protein-protein interactions	E2f		
+Cyclin A	regulation of binding	Cyclin A		
+E2f	activation	Cdk		
+E2f	activation	E2f		
+E2f	expression	Cdk		
+E2f	inhibition	E2f		
+E2f	protein-DNA interactions	Cyclin A		
+E2f	protein-protein interactions	Cyclin A		
+E2f	protein-protein interactions	Hdac		
+E2f	transcription	Cyclin A		
+E2f	transcription	E2f		
+E2f	transcription	KNTC1		
+G protein	activation	Pak		
+G protein	expression	G protein		
+Hdac	activation	TCF		
+Hdac	expression	LHX1		
+Hdac	expression	NRP1		
+Hdac	modification	E2f		
+Hdac	protein-protein interactions	E2f		
+Hdac	translocation	Hdac		
+LHX1	expression	LRRC19		
+LHX1	expression	MSI2		
+LHX1	expression	NAPSA		
+MAP2K1/2	expression	Cyclin A		
+MBIP	protein-protein interactions	KLHL26		
+MBIP	protein-protein interactions	MBIP		
+MIS18A	protein-protein interactions	MBIP		
+MIS18BP1	protein-protein interactions	MIS18A		
+MT2A	protein-protein interactions	E2f		
+NEK8	activation	Cdk		
+NEK8	activation	Cyclin A		
+NEK8	expression	NEK8		
+NEK8	protein-protein interactions	Cdk		
+NEK8	protein-protein interactions	Cyclin A		
+NRP1	protein-protein interactions	NRP1		
+NUDCD2	protein-protein interactions	KLHL1		
+NUDCD2	protein-protein interactions	KLHL26		
+NUDCD2	protein-protein interactions	KLHL4		
+NUDCD2	protein-protein interactions	NEK8		
+NUDCD3	protein-protein interactions	KLHDC1		
+NUDCD3	protein-protein interactions	KLHDC2		
+NUDCD3	protein-protein interactions	KLHDC3		
+NUDCD3	protein-protein interactions	KLHDC7B		
+NUDCD3	protein-protein interactions	KLHL1		
+NUDCD3	protein-protein interactions	KLHL10		
+NUDCD3	protein-protein interactions	KLHL11		
+NUDCD3	protein-protein interactions	KLHL18		
+NUDCD3	protein-protein interactions	KLHL22		
+NUDCD3	protein-protein interactions	KLHL25		
+NUDCD3	protein-protein interactions	KLHL26		
+NUDCD3	protein-protein interactions	KLHL33		
+NUDCD3	protein-protein interactions	KLHL36		
+NUDCD3	protein-protein interactions	KLHL4		
+NUDCD3	protein-protein interactions	NUDCD2		
+Pak	activation	LHX1		
+Pak	activation	MAP2K1/2		
+Pak	activation	Pak		
+Pak	phosphorylation	LHX1		
+Pak	phosphorylation	MAP2K1/2		
+Pak	phosphorylation	Pak		
+Pak	regulation of binding	Pak		
+TCF	activation	TCF		
+TCF	regulation of binding	TCF		

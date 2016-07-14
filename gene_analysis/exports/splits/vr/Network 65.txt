@@ -1,0 +1,72 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+PELI3	activation	PELI3		
+PELI3	phosphorylation	IKK (complex)		
+PSME3	protein-protein interactions	PDCD2		
+PSME3	protein-protein interactions	PSME3		
+RN7SK	regulation of binding	RN7SK		
+RNU4-1	RNA-RNA interactions: non-targeting interactions	RNU2-1		
+RNU4-1	RNA-RNA interactions: non-targeting interactions	RNU5A-1		
+RNU5A-1	RNA-RNA interactions: non-targeting interactions	RNU2-1		
+RNU5A-1	RNA-RNA interactions: non-targeting interactions	RNU4-1		
+SERPIND1	protein-protein interactions	PDCD2		
+SERPIND1	protein-protein interactions	SERPIND1		
+SLC22A1	protein-DNA interactions	RN7SK		
+SLC22A1	protein-protein interactions	RN7SK		
+SLC22A1	protein-protein interactions	SNAPC2		
+SLC22A1	protein-protein interactions	SNAPC3		
+SLC22A6	protein-protein interactions	SLC22A1		
+SLC22A6	protein-protein interactions	SLC22A6		
+SNAPC2	protein-DNA interactions	RN7SK		
+SNAPC2	protein-DNA interactions	SNAPC3		
+SNAPC2	protein-protein interactions	RN7SK		
+SNAPC2	protein-protein interactions	RNU1-4		
+SNAPC2	protein-protein interactions	SNAPC3		
+SNAPC2	transcription	RNU2-1		
+SNAPC2	transcription	SNAPC3		
+SNAPC3	protein-DNA interactions	RN7SK		
+SNAPC3	protein-DNA interactions	SNAPC2		
+SNAPC3	protein-protein interactions	PSME3		
+SNAPC3	protein-protein interactions	SNAPC2		
+SNAPC3	transcription	RN7SK		
+SNAPC3	transcription	RNU1-4		
+SNAPC3	transcription	RNU2-1		
+SNAPC3	transcription	SNAPC2		
+TNFAIP8L1	protein-protein interactions	PSME3		
+TSR1	protein-protein interactions	PSME3		
+USP43	activation	IKK (complex)		
+USP43	protein-protein interactions	PDCD2		
+USP43	protein-protein interactions	PSME3		
+VPS26B	expression	VPS35		
+VPS26B	protein-protein interactions	VPS35		
+VPS35	protein-protein interactions	ORC3		
+VPS35	protein-protein interactions	PDCD2		
+VPS35	protein-protein interactions	PSME3		
+VPS35	protein-protein interactions	USP43		
+VPS35	protein-protein interactions	VPS26B		
+VPS35	protein-protein interactions	VPS35		
+WDR25	protein-protein interactions	PSME3		
+WDR3	protein-protein interactions	PDCD2		
+WDR3	protein-protein interactions	PSME3		
+WDR3	protein-protein interactions	USP43		
+WDR3	protein-protein interactions	VPS35		
+ZBP1	protein-protein interactions	ORC3		
+ZBP1	protein-protein interactions	VPS35		
+ZBP1	protein-protein interactions	ZBP1		
+ZC3H18	activation	IKK (complex)		
+ZNF324	protein-protein interactions	PSME3		
+ZNF516	protein-protein interactions	ORC3		
+ZNF516	protein-protein interactions	VPS35		
+ZNF516	protein-protein interactions	ZBP1		
+ZNF750	protein-protein interactions	ZNF516		
+snRNP	membership	RNU1-2		
+snRNP	membership	RNU1-3		
+snRNP	membership	RNU1-4		
+snRNP	membership	RNU2-1		
+snRNP	membership	RNU4-1		
+snRNP	membership	RNU4-2		
+snRNP	membership	RNU5A-1		
+snRNP	membership	RNU5B-1		
+snRNP	membership	RNU5D-1		
+snRNP	membership	RNVU1-18		
+snRNP	membership	RNVU1-7		

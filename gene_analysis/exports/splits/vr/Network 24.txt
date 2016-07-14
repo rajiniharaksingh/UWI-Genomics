@@ -1,0 +1,78 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+AVEN	activation	AVEN		
+BCL2	activation	BCL2		
+BCL2	expression	BCL2		
+BCL2	expression	HMP19		
+BCL2	inhibition	BCL2		
+BCL2	localization	BCL2		
+BCL2	localization	IgG2c		
+BCL2	molecular cleavage	BCL2		
+BCL2	protein-protein interactions	AVEN		
+BCL2	protein-protein interactions	BCL2		
+BCL2	regulation of binding	BCL2		
+BECN2	protein-protein interactions	BCL2		
+BFAR	protein-protein interactions	BCL2		
+BLID	protein-protein interactions	BCL2		
+BNIP2	protein-protein interactions	BCL2		
+BNIP2	protein-protein interactions	BNIP2		
+BNIPL	protein-protein interactions	BCL2		
+BNIPL	protein-protein interactions	BNIP2		
+BNIPL	protein-protein interactions	BNIPL		
+CCDC67	protein-protein interactions	CCDC67		
+CISD2	protein-protein interactions	BCL2		
+CISD2	regulation of binding	BCL2		
+DGCR6L	protein-protein interactions	CCDC67		
+DSN1	protein-protein interactions	DSN1		
+DYNC1LI1	protein-protein interactions	DYNLT3		
+DYNC1LI1	regulation of binding	DYNC1LI1		
+DYNLRB2	protein-protein interactions	BCL2		
+DYNLT3	expression	BCL2		
+DYNLT3	protein-DNA interactions	BCL2		
+DYNLT3	protein-protein interactions	DYNC1LI1		
+DYNLT3	protein-protein interactions	DYNLT3		
+DYNLT3	transcription	BCL2		
+DZIP1	localization	IFT140		
+DZIP1	localization	IFT57		
+DZIP1	localization	IFT88		
+DZIP1	protein-protein interactions	IFT88		
+EXOC1	protein-protein interactions	CEP295		
+EXOC1	protein-protein interactions	EXOC3		
+EXOC1	protein-protein interactions	EXOC5		
+EXOC1	protein-protein interactions	EXOC7		
+EXOC3	protein-protein interactions	EXOC1		
+EXOC3	protein-protein interactions	EXOC5		
+EXOC3	protein-protein interactions	EXOC7		
+EXOC5	protein-protein interactions	CCDC67		
+EXOC5	protein-protein interactions	DSN1		
+EXOC5	protein-protein interactions	EXOC1		
+EXOC5	protein-protein interactions	EXOC3		
+EXOC5	protein-protein interactions	EXOC5		
+EXOC5	protein-protein interactions	EXOC7		
+EXOC7	protein-protein interactions	DSN1		
+Exocyst	membership	EXOC1		
+Exocyst	membership	EXOC3		
+Exocyst	membership	EXOC5		
+Exocyst	membership	EXOC7		
+FBF1	protein-protein interactions	CCDC67		
+GIMAP1-GIMAP5	protein-protein interactions	BCL2		
+HMP19	protein-protein interactions	HCFC1R1		
+HRK	protein-protein interactions	BCL2		
+IFT172	protein-protein interactions	IFT140		
+IFT20	protein-protein interactions	CCDC67		
+IFT20	protein-protein interactions	EXOC7		
+IFT20	protein-protein interactions	FBF1		
+IFT20	protein-protein interactions	IFT57		
+IFT20	protein-protein interactions	IFT88		
+IFT57	expression	BCL2		
+IFT57	protein-protein interactions	BFAR		
+IFT57	protein-protein interactions	EHBP1		
+IFT57	protein-protein interactions	EXOC7		
+IFT57	protein-protein interactions	IFT172		
+IFT57	protein-protein interactions	IFT20		
+IFT57	protein-protein interactions	IFT88		
+IFT74	protein-protein interactions	IFT57		
+IFT88	protein-protein interactions	DZIP1		
+IFT88	protein-protein interactions	IFT20		
+IFT88	protein-protein interactions	IFT57		
+IFT88	protein-protein interactions	IFT74		
+MIR101	expression	BCL2		

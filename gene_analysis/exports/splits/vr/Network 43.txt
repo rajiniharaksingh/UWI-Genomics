@@ -1,0 +1,82 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+KDELR1	activation	P38 MAPK		
+KDELR1	localization	MANF		
+KDELR1	phosphorylation	P38 MAPK		
+KDELR1	protein-protein interactions	KDELR1		
+KDELR2	localization	MANF		
+LBX1	transcription	LBX1		
+LDH (family)	membership	LDHB		
+LDHB	protein-protein interactions	LDHB		
+LDOC1	protein-protein interactions	LDOC1		
+MATN1	expression	MATN4		
+MATN1	protein-protein interactions	MATN4		
+MATN3	expression	MATN4		
+MATN3	protein-protein interactions	MANF		
+MATN3	protein-protein interactions	MATN1		
+MATN4	protein-protein interactions	MATN1		
+MEF2	expression	MYH11		
+MEF2	expression	MYOCD		
+MEF2	expression	mir-1		
+MEF2	membership	MEF2B		
+MEF2	membership	MEF2BNB-MEF2B		
+MEF2	protein-DNA interactions	Alpha actin		
+MEF2	protein-DNA interactions	LDHB		
+MEF2	protein-DNA interactions	MYH1		
+MEF2	transcription	mir-1		
+MEF2	transcription	mir-133		
+MEF2	transcription	mir-208		
+MEF2BNB-MEF2B	protein-protein interactions	MEF2BNB-MEF2B		
+MFNG	activation	NOTCH3		
+MFNG	activation	NOTCH4		
+MS4A2	molecular cleavage	MS4A2		
+MS4A2	ubiquitination	MS4A2		
+MYH11	expression	MYH11		
+MYH11	molecular cleavage	MYH11		
+MYH3	protein-protein interactions	MLC1		
+MYLK	activation	MYLK		
+MYLK	phosphorylation	MYLK		
+MYLK	protein-protein interactions	MLC1		
+MYOCD	expression	MYH11		
+MYOCD	expression	MYLK		
+MYOCD	expression	SMOOTH MUSCLE ACTIN		
+MYOCD	expression	Tropomyosin		
+MYOCD	expression	mir-1		
+MYOCD	expression	mir-133		
+MYOCD	protein-DNA interactions	MYH11		
+MYOCD	protein-DNA interactions	MYLK		
+MYOCD	regulation of binding	mir-133		
+MYOCD	transcription	MYH11		
+MYOCD	transcription	MYLK		
+MYOCD	ubiquitination	MYOCD		
+MZF1	expression	MS4A2		
+MZF1	protein-protein interactions	LDOC1		
+MZF1	protein-protein interactions	MZF1		
+NOTCH3	expression	MYH11		
+NOTCH3	expression	SMOOTH MUSCLE ACTIN		
+NOTCH4	expression	SMOOTH MUSCLE ACTIN		
+NOTCH4	transcription	SMOOTH MUSCLE ACTIN		
+NOTCH4	ubiquitination	NOTCH4		
+P38 MAPK	activation	Aconitase		
+P38 MAPK	activation	MEF2		
+P38 MAPK	activation	MZF1		
+P38 MAPK	activation	P38 MAPK		
+P38 MAPK	expression	7S NGF		
+P38 MAPK	expression	Alpha actin		
+P38 MAPK	expression	KDELR1		
+P38 MAPK	expression	LBX1		
+P38 MAPK	expression	MYBPH		
+P38 MAPK	expression	MYH11		
+P38 MAPK	expression	MYH3		
+P38 MAPK	expression	NOTCH3		
+P38 MAPK	expression	P38 MAPK		
+P38 MAPK	phosphorylation	MEF2		
+P38 MAPK	phosphorylation	P38 MAPK		
+P38 MAPK	translocation	P38 MAPK		
+Tropomyosin	protein-protein interactions	Alpha actin		
+Tropomyosin	protein-protein interactions	SMOOTH MUSCLE ACTIN		
+mir-1	expression	MYLK		
+mir-1	expression	NOTCH3		
+mir-1	expression	Tropomyosin		
+mir-133	expression	SMOOTH MUSCLE ACTIN		
+mir-208	expression	mir-208		
+mir-208	expression	mir-499		

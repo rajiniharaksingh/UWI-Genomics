@@ -1,0 +1,92 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Ck2	activation	Ck2		
+Ck2	activation	SLITRK1		
+Ck2	activation	TCF3		
+Ck2	phosphorylation	SLITRK1		
+Ck2	phosphorylation	SRL		
+Ck2	regulation of binding	YWHAG		
+PIN1	activation	Ck2		
+PIN1	localization	TP73		
+PIN1	modification	TP73		
+PIN1	protein-protein interactions	TP73		
+PPP1R13L	protein-protein interactions	PPP1R13L		
+PRL	expression	PRL		
+PRL	expression	YWHAG		
+PRL	transcription	PRL		
+SFN	molecular cleavage	SFN		
+SFN	protein-protein interactions	PDZD11		
+SFN	protein-protein interactions	RPS8		
+SFN	protein-protein interactions	SFN		
+SFN	translocation	SFN		
+SFN	ubiquitination	SFN		
+SH2D3A	protein-protein interactions	SFN		
+SHROOM1	protein-protein interactions	SFN		
+SLITRK1	expression	SLITRK1		
+SPIRE1	protein-protein interactions	SFN		
+SPN	regulation of binding	YWHAQ		
+TANC2	protein-protein interactions	PRICKLE2		
+TBC1D4	protein-protein interactions	PIN1		
+TBC1D4	protein-protein interactions	SFN		
+TBC1D4	protein-protein interactions	TBC1D4		
+TBC1D4	protein-protein interactions	YWHAG		
+TBC1D4	regulation of binding	TBC1D4		
+TBC1D4	regulation of binding	YWHAG		
+TCF3	expression	TCF3		
+TCF3	expression	ZP4		
+TCF3	molecular cleavage	TCF3		
+TCF3	protein-DNA interactions	ZP4		
+TCF3	protein-protein interactions	RNASE12		
+TCF3	protein-protein interactions	SFN		
+TCF3	protein-protein interactions	SOWAHC		
+TCF3	protein-protein interactions	TCF3		
+TCF3	regulation of binding	TCF3		
+TP73	activation	TP73		
+TP73	expression	PRL		
+TP73	expression	SFN		
+TP73	expression	SMUG1		
+TP73	expression	SPINK2		
+TP73	expression	TP73		
+TP73	expression	WNT10A		
+TP73	inhibition	TP73		
+TP73	molecular cleavage	TP73		
+TP73	protein-DNA interactions	TP73		
+TP73	protein-DNA interactions	YWHAB		
+TP73	protein-protein interactions	PIN1		
+TP73	protein-protein interactions	PPP1R13L		
+TP73	protein-protein interactions	RABL2A		
+TP73	protein-protein interactions	TP73		
+TP73	regulation of binding	TP73		
+TP73	transcription	TP73		
+TP73	ubiquitination	TP73		
+TRMT11	protein-protein interactions	TP73		
+TSPAN33	protein-protein interactions	PDZD11		
+YWHAB	protein-protein interactions	SFN		
+YWHAB	protein-protein interactions	SH3BP5L		
+YWHAB	protein-protein interactions	SIPA1L2		
+YWHAB	protein-protein interactions	SLITRK1		
+YWHAB	protein-protein interactions	TANC2		
+YWHAB	protein-protein interactions	TBC1D4		
+YWHAB	protein-protein interactions	UHRF1BP1L		
+YWHAB	protein-protein interactions	YWHAB		
+YWHAB	protein-protein interactions	YWHAG		
+YWHAB	protein-protein interactions	YWHAQ		
+YWHAG	protein-protein interactions	PANK2		
+YWHAG	protein-protein interactions	SFN		
+YWHAG	protein-protein interactions	SH3BP5L		
+YWHAG	protein-protein interactions	TBC1D4		
+YWHAG	protein-protein interactions	YWHAB		
+YWHAG	protein-protein interactions	YWHAG		
+YWHAG	protein-protein interactions	YWHAQ		
+YWHAQ	expression	TP73		
+YWHAQ	inhibition	YWHAQ		
+YWHAQ	protein-protein interactions	PANK2		
+YWHAQ	protein-protein interactions	SFN		
+YWHAQ	protein-protein interactions	SPIRE1		
+YWHAQ	protein-protein interactions	TBC1D4		
+YWHAQ	protein-protein interactions	TCF3		
+YWHAQ	protein-protein interactions	YWHAB		
+YWHAQ	protein-protein interactions	YWHAG		
+YWHAQ	protein-protein interactions	YWHAQ		
+YWHAQ	regulation of binding	YWHAQ		
+ZNF395	protein-protein interactions	YWHAB		

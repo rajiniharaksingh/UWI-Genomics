@@ -1,0 +1,5 @@
+cpg_islands_modified_consolidated.txt
+cpg_islands_modified.txt
+cpg_islands.txt
+dnase_clusters_modified_consolidated.txtdnase_clusters_modified.txtdnase_clusters.txtdnase_hs_modified_consolidated.txtdnase_hs_modified.txtdnase_hs.txtgene_start_stop_no_dups_consolidated.txt
+unmasked_cpg_modified_consolidated.txtunmasked_cpg_modified.txtunmasked_cpg.txt

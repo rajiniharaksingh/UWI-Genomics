@@ -1,0 +1,55 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Gpcr	inhibition	Gpcr		
+Gpcr	membership	KISS1R		
+Gpcr	membership	LPAR2		
+Gpcr	membership	LPAR4		
+Gpcr	membership	LPAR6		
+Gpcr	membership	MC1R		
+Gpcr	membership	MC2R		
+Gpcr	membership	MC4R		
+Gpcr	membership	MC5R		
+Gpcr	membership	MCHR1		
+Gpcr	membership	MLNR		
+Gpcr	membership	MTNR1B		
+Gpcr	membership	NMBR		
+Gpcr	membership	NMUR1		
+Gpcr	membership	NMUR2		
+Gpcr	membership	NPBWR1		
+Gpcr	membership	NPBWR2		
+Gpcr	membership	NPFFR1		
+Gpcr	membership	NPY1R		
+Gpcr	membership	NPY5R		
+Gpcr	membership	NTSR1		
+Gpcr	membership	OPN1LW		
+Gpcr	membership	OPN1MW (includes others)		
+Gpcr	membership	OPN1SW		
+Gpcr	phosphorylation	Gpcr		
+Gpcr	regulation of binding	Gpcr		
+Gs-coupled receptor	membership	MC1R		
+Gs-coupled receptor	membership	MC2R		
+Gs-coupled receptor	membership	MC4R		
+Gs-coupled receptor	membership	MC5R		
+KISS1R	expression	KISS1R		
+MC4R	protein-protein interactions	MC4R		
+MLNR	protein-protein interactions	MLN		
+MRAP2	protein-protein interactions	MC1R		
+MRAP2	protein-protein interactions	MC2R		
+MRAP2	protein-protein interactions	MC4R		
+MRAP2	protein-protein interactions	MC5R		
+MRAP2	protein-protein interactions	MRAP2		
+MTNR1B	protein-protein interactions	MTNR1B		
+NMUR1	protein-protein interactions	NMS		
+NMUR2	protein-protein interactions	NMS		
+NPBWR1	protein-protein interactions	NPB		
+NPBWR2	protein-protein interactions	NPB		
+NPFF	activation	MRGPRX2		
+NPFF	activation	MRGPRX3		
+NPS	activation	Gpcr		
+NPVF	activation	MRGPRX2		
+NPVF	protein-protein interactions	NPFFR1		
+NPW	activation	NPBWR1		
+NPW	activation	NPBWR2		
+NPW	protein-protein interactions	NPBWR1		
+NPW	protein-protein interactions	NPBWR2		
+NPY1R	regulation of binding	NPY1R		
+OPN1LW	expression	OPN1LW		

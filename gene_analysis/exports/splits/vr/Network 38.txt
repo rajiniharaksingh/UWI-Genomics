@@ -1,0 +1,207 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Fascin	expression	MMP9		
+Fascin	regulation of binding	Fascin		
+Gm-csf	expression	IL12 (complex)		
+Gm-csf	expression	MED14		
+Gm-csf	expression	MMP9		
+IL12 (complex)	activation	MMP9		
+IL12 (complex)	expression	IL12 (complex)		
+IL12 (complex)	expression	Ige		
+IL12 (complex)	expression	MMP9		
+IL12 (complex)	expression	mediator		
+IL12 (complex)	localization	IL12 (complex)		
+IL12 (complex)	transcription	MMP9		
+IL12 (complex)	translocation	IL12 (complex)		
+Ige	expression	Gm-csf		
+Ige	expression	IL12 (complex)		
+Ige	localization	mediator		
+Ige	regulation of binding	Ige		
+KCTD11	protein-protein interactions	KCTD11		
+KDM4B	regulation of binding	KDM4B		
+KMT2B	expression	RNA polymerase II		
+KMT2C	protein-protein interactions	KDM4B		
+KMT2C	protein-protein interactions	KMT2B		
+KRT75	protein-protein interactions	Ige		
+LOXL2	expression	MMP9		
+LRPPRC	regulation of binding	LRPPRC		
+LZTR1	protein-protein interactions	LZTR1		
+MED10	protein-protein interactions	KDM4B		
+MED11	protein-protein interactions	MED10		
+MED12	activation	MED12		
+MED12	activation	RNA polymerase II		
+MED12	localization	MED15		
+MED12	localization	MED17		
+MED12	localization	MED4		
+MED12	phosphorylation	RNA polymerase II		
+MED12	protein-protein interactions	MED10		
+MED12	protein-protein interactions	MED11		
+MED12	protein-protein interactions	MED14		
+MED12	protein-protein interactions	MED15		
+MED12	protein-protein interactions	MED16		
+MED12	protein-protein interactions	MED17		
+MED12	protein-protein interactions	MED25		
+MED12	protein-protein interactions	MED26		
+MED12	protein-protein interactions	MED31		
+MED12	protein-protein interactions	MED4		
+MED12	protein-protein interactions	MED7		
+MED12	protein-protein interactions	RNA polymerase II		
+MED14	activation	MED14		
+MED14	localization	MED31		
+MED14	protein-protein interactions	MED10		
+MED14	protein-protein interactions	MED12		
+MED14	protein-protein interactions	MED15		
+MED14	protein-protein interactions	MED16		
+MED14	protein-protein interactions	MED17		
+MED14	protein-protein interactions	MED25		
+MED14	protein-protein interactions	MED26		
+MED14	protein-protein interactions	MED31		
+MED14	protein-protein interactions	MED4		
+MED14	protein-protein interactions	MED7		
+MED14	protein-protein interactions	RNA polymerase II		
+MED15	localization	MED12		
+MED15	protein-protein interactions	MED10		
+MED15	protein-protein interactions	MED12		
+MED15	protein-protein interactions	MED14		
+MED15	protein-protein interactions	MED16		
+MED15	protein-protein interactions	MED17		
+MED15	protein-protein interactions	MED25		
+MED15	protein-protein interactions	MED26		
+MED15	protein-protein interactions	MED31		
+MED15	protein-protein interactions	MED4		
+MED15	protein-protein interactions	MED7		
+MED15	protein-protein interactions	RNA polymerase II		
+MED16	localization	MED4		
+MED16	protein-protein interactions	LZTR1		
+MED16	protein-protein interactions	MED10		
+MED16	protein-protein interactions	MED12		
+MED16	protein-protein interactions	MED14		
+MED16	protein-protein interactions	MED15		
+MED16	protein-protein interactions	MED17		
+MED16	protein-protein interactions	MED25		
+MED16	protein-protein interactions	MED26		
+MED16	protein-protein interactions	MED31		
+MED16	protein-protein interactions	MED4		
+MED16	protein-protein interactions	MED7		
+MED16	protein-protein interactions	RNA polymerase II		
+MED17	localization	MED12		
+MED17	localization	RNA polymerase II		
+MED17	protein-protein interactions	MED10		
+MED17	protein-protein interactions	MED11		
+MED17	protein-protein interactions	MED12		
+MED17	protein-protein interactions	MED14		
+MED17	protein-protein interactions	MED15		
+MED17	protein-protein interactions	MED16		
+MED17	protein-protein interactions	MED25		
+MED17	protein-protein interactions	MED26		
+MED17	protein-protein interactions	MED31		
+MED17	protein-protein interactions	MED4		
+MED17	protein-protein interactions	MED7		
+MED18	protein-protein interactions	MED10		
+MED18	protein-protein interactions	MED11		
+MED18	protein-protein interactions	MED12		
+MED18	protein-protein interactions	MED14		
+MED18	protein-protein interactions	MED15		
+MED18	protein-protein interactions	MED16		
+MED18	protein-protein interactions	MED17		
+MED18	protein-protein interactions	MED18		
+MED25	protein-protein interactions	MED10		
+MED25	protein-protein interactions	MED11		
+MED25	protein-protein interactions	MED12		
+MED25	protein-protein interactions	MED14		
+MED25	protein-protein interactions	MED15		
+MED25	protein-protein interactions	MED16		
+MED25	protein-protein interactions	MED17		
+MED25	protein-protein interactions	MED25		
+MED25	protein-protein interactions	MED26		
+MED25	protein-protein interactions	MED4		
+MED25	protein-protein interactions	MED7		
+MED26	protein-protein interactions	MED10		
+MED26	protein-protein interactions	MED11		
+MED26	protein-protein interactions	MED12		
+MED26	protein-protein interactions	MED14		
+MED26	protein-protein interactions	MED15		
+MED26	protein-protein interactions	MED16		
+MED26	protein-protein interactions	MED17		
+MED26	protein-protein interactions	MED18		
+MED26	protein-protein interactions	MED25		
+MED26	protein-protein interactions	MED4		
+MED26	protein-protein interactions	MED7		
+MED31	localization	MED7		
+MED31	protein-protein interactions	MED10		
+MED31	protein-protein interactions	MED11		
+MED31	protein-protein interactions	MED12		
+MED31	protein-protein interactions	MED17		
+MED31	protein-protein interactions	MED18		
+MED31	protein-protein interactions	MED25		
+MED31	protein-protein interactions	MED26		
+MED31	protein-protein interactions	MED4		
+MED31	protein-protein interactions	MED7		
+MED31	protein-protein interactions	RNA polymerase II		
+MED4	localization	MED12		
+MED4	protein-protein interactions	MED10		
+MED4	protein-protein interactions	MED11		
+MED4	protein-protein interactions	MED12		
+MED4	protein-protein interactions	MED17		
+MED4	protein-protein interactions	MED18		
+MED4	protein-protein interactions	MED25		
+MED4	protein-protein interactions	MED26		
+MED4	protein-protein interactions	MED31		
+MED4	protein-protein interactions	MED7		
+MED4	protein-protein interactions	RNA polymerase II		
+MED7	localization	MED31		
+MED7	localization	RNA polymerase II		
+MED7	protein-protein interactions	LZTR1		
+MED7	protein-protein interactions	MED10		
+MED7	protein-protein interactions	MED11		
+MED7	protein-protein interactions	MED12		
+MED7	protein-protein interactions	MED12L		
+MED7	protein-protein interactions	MED14		
+MED7	protein-protein interactions	MED15		
+MED7	protein-protein interactions	MED16		
+MED7	protein-protein interactions	MED17		
+MED7	protein-protein interactions	MED18		
+MED7	protein-protein interactions	MED25		
+MED7	protein-protein interactions	MED26		
+MED7	protein-protein interactions	MED31		
+MED7	protein-protein interactions	MED4		
+METTL22	protein-protein interactions	LRPPRC		
+MMP9	expression	IL12 (complex)		
+MMP9	expression	Ige		
+MMP9	expression	MMP9		
+MMP9	protein-protein interactions	MMP9		
+MMP9	transcription	MMP9		
+MMP9	translocation	MMP9		
+NGF	expression	KCTD11		
+NGF	expression	MMP9		
+NGF	localization	mediator		
+NGF	protein-protein interactions	NGF		
+NGF	regulation of binding	Fascin		
+NGF	regulation of binding	NGF		
+NKD2	protein-protein interactions	MED16		
+NREP	expression	MMP9		
+NREP	protein-protein interactions	KMT2B		
+NRTN	activation	MMP9		
+NRTN	expression	Ige		
+RNA polymerase II	molecular cleavage	RNA polymerase II		
+RNA polymerase II	protein-DNA interactions	MMP9		
+RNA polymerase II	protein-protein interactions	MED14		
+RNA polymerase II	protein-protein interactions	MED15		
+RNA polymerase II	protein-protein interactions	MED26		
+mediator	activation	MED12		
+mediator	localization	RNA polymerase II		
+mediator	membership	MED10		
+mediator	membership	MED11		
+mediator	membership	MED12		
+mediator	membership	MED12L		
+mediator	membership	MED14		
+mediator	membership	MED15		
+mediator	membership	MED16		
+mediator	membership	MED17		
+mediator	membership	MED18		
+mediator	membership	MED25		
+mediator	membership	MED26		
+mediator	membership	MED31		
+mediator	membership	MED4		
+mediator	membership	MED7		
+mediator	protein-protein interactions	LRPPRC		
+mir-224	expression	MMP9		

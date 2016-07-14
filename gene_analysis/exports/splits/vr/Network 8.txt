@@ -1,0 +1,55 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ABI1	activation	ENAH		
+ABI1	inhibition	ABI1		
+ABI1	phosphorylation	ENAH		
+ABI1	protein-protein interactions	ABI1		
+ABI1	protein-protein interactions	ENAH		
+APBB1	protein-protein interactions	ABI1		
+APBB1	protein-protein interactions	APBB1		
+ARPC4	protein-protein interactions	ACTR3B		
+AZU1	translocation	AZU1		
+BIN3	protein-protein interactions	AZU1		
+BTNL2	expression	ACTR3B		
+BTNL2	expression	CERK		
+BTNL2	expression	DRC1		
+BTNL2	expression	EMB		
+BTNL2	expression	ENAH		
+BTNL2	expression	FGL2		
+BTNL2	expression	GBP3		
+BTNL2	expression	GJB2		
+BTNL2	expression	IGFLR1		
+BTNL2	expression	KCNK6		
+CPSF7	protein-protein interactions	APBB1		
+DDX46	protein-protein interactions	APBB1		
+DNMBP	protein-protein interactions	ABI1		
+DNMBP	protein-protein interactions	BIN3		
+ENAH	protein-protein interactions	ABI1		
+ENAH	protein-protein interactions	ACTL7A		
+ENAH	protein-protein interactions	APBB1		
+ENAH	protein-protein interactions	DNMBP		
+EPS8L1	protein-protein interactions	ABI1		
+EPS8L2	protein-protein interactions	ABI1		
+EVL	activation	EVL		
+EVL	protein-protein interactions	APBB1		
+EVL	protein-protein interactions	C11orf31		
+EVL	protein-protein interactions	DNMBP		
+EVL	protein-protein interactions	EVL		
+EVL	regulation of binding	EVL		
+FBXO2	expression	FBXO2		
+FBXO2	expression	GJB2		
+FBXO2	protein-protein interactions	AZU1		
+FBXO2	protein-protein interactions	GJB2		
+FGL2	expression	FGL2		
+GCAT	protein-protein interactions	EMB		
+GCC1	protein-protein interactions	CPSF7		
+GJB2	protein-protein interactions	FBXO2		
+GNPDA1	protein-protein interactions	AMDHD2		
+GNPDA1	protein-protein interactions	FGL2		
+GNPDA1	protein-protein interactions	GNPDA1		
+HTR1A	protein-protein interactions	HTR1A		
+IFNGR2	expression	GBP3		
+IGFLR1	protein-protein interactions	IGFL1		
+IGFLR1	protein-protein interactions	IGFL2		
+IGFLR1	protein-protein interactions	IGFL3		
+tubulin (family)	protein-protein interactions	DNMBP		
+tubulin (family)	protein-protein interactions	HTR1A		

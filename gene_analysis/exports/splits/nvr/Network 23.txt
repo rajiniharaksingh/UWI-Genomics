@@ -1,0 +1,54 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+BSDC1	protein-protein interactions	BSDC1		
+CLCA2	expression	FN1		
+CTNNAL1	expression	FN1		
+ESD	protein-protein interactions	ESD		
+FN1	expression	BSDC1		
+FN1	expression	FN1		
+FN1	expression	GJB3		
+FN1	molecular cleavage	FN1		
+FN1	protein-protein interactions	BROX		
+FN1	protein-protein interactions	ESD		
+FN1	protein-protein interactions	FARSB		
+FN1	protein-protein interactions	FN1		
+FN1	regulation of binding	FN1		
+FN1	translocation	FN1		
+FN1	ubiquitination	FN1		
+GALE	protein-protein interactions	FN1		
+GALE	protein-protein interactions	GALE		
+GALNT6	expression	FN1		
+HNRNPL	protein-protein interactions	FN1		
+HNRNPL	protein-protein interactions	HNRNPL		
+MRPL13	protein-protein interactions	FN1		
+MRPL13	protein-protein interactions	HNRNPL		
+MRPS28	protein-protein interactions	FN1		
+NOVA2	protein-protein interactions	HNRNPL		
+NOVA2	protein-protein interactions	NOVA2		
+NPTN	protein-protein interactions	NPTN		
+NUP210	protein-protein interactions	FN1		
+NUP210	protein-protein interactions	NPTN		
+PDAP1	protein-protein interactions	FN1		
+PSMG1	protein-protein interactions	FN1		
+PSMG1	protein-protein interactions	PSMG1		
+RALY	protein-protein interactions	FN1		
+RALY	protein-protein interactions	HNRNPL		
+RALY	protein-protein interactions	MRPL13		
+SLC5A3	protein-protein interactions	FN1		
+SMAP2	protein-protein interactions	FN1		
+SMAP2	protein-protein interactions	SMAP1		
+ST3GAL5	protein-protein interactions	NDUFAF7		
+TRIM68	protein-protein interactions	HNRNPL		
+TRIM68	protein-protein interactions	TMEM139		
+TWIST	expression	CLCA2		
+TWIST	expression	ST3GAL5		
+TWIST	membership	TWIST2		
+TWIST2	expression	FN1		
+TWIST2	protein-protein interactions	TWIST2		
+polypeptide N-acetylgalactosaminyltransferase	membership	C1GALT1C1		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT10		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT16		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT5		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT6		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT7		
+polypeptide N-acetylgalactosaminyltransferase	membership	GALNT9		

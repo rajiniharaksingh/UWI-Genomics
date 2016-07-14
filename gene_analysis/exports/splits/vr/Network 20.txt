@@ -1,0 +1,67 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ASXL2	protein-protein interactions	ASXL3		
+ASXL2	protein-protein interactions	CBX7		
+ASXL2	protein-protein interactions	CBX8		
+ASXL3	protein-protein interactions	CBX7		
+ASXL3	protein-protein interactions	CBX8		
+CBX7	expression	CBX8		
+CBX7	protein-protein interactions	CBX8		
+CBX8	protein-DNA interactions	FGF3		
+CBX8	protein-DNA interactions	FGF4		
+CBX8	protein-protein interactions	CBX7		
+CBX8	protein-protein interactions	CBX8		
+CCDC136	protein-protein interactions	CBX8		
+CCDC85B	protein-protein interactions	C10orf10		
+CCDC85B	protein-protein interactions	C1orf111		
+CCDC85B	protein-protein interactions	C8orf48		
+CCDC85B	protein-protein interactions	CCDC185		
+CCHCR1	protein-protein interactions	CCDC136		
+CCHCR1	protein-protein interactions	CCHCR1		
+CWC25	protein-protein interactions	CCDC85B		
+CWF19L2	protein-protein interactions	CCDC136		
+DUSP13	protein-protein interactions	CCDC85B		
+FAM107A	protein-protein interactions	CCDC136		
+FAM107A	protein-protein interactions	CCDC85B		
+FAM208B	protein-protein interactions	CCDC85B		
+FAM208B	protein-protein interactions	FAM208B		
+FBXO15	protein-protein interactions	CPA6		
+FGF3	activation	Rsk		
+FGF3	phosphorylation	Rsk		
+FGF4	activation	Rsk		
+FGF4	phosphorylation	Rsk		
+FOXD3	protein-protein interactions	FOXD3		
+FOXK1	protein-protein interactions	AP5Z1		
+FOXK1	protein-protein interactions	ASXL2		
+FOXK1	protein-protein interactions	FOXK1		
+FSD2	protein-protein interactions	CBX8		
+FSD2	protein-protein interactions	CCHCR1		
+FSD2	protein-protein interactions	FAM107A		
+GIP	activation	KCNA5		
+GIP	activation	Rsk		
+GIP	expression	GIP		
+GIP	modification	KCNA5		
+GIP	phosphorylation	KCNA5		
+GIP	phosphorylation	Rsk		
+GIP	regulation of binding	KCNA5		
+HINT3	protein-protein interactions	FBXO15		
+HIST1H4B	protein-protein interactions	CBX7		
+HMG20B	modification	HMG20B		
+HMG20B	protein-protein interactions	CCDC136		
+HMG20B	protein-protein interactions	CCDC85B		
+HMG20B	regulation of binding	HMG20B		
+HOOK2	protein-protein interactions	CWF19L2		
+HOOK2	protein-protein interactions	DUSP13		
+HOOK2	protein-protein interactions	FAM107A		
+HOOK2	protein-protein interactions	HOOK2		
+IQCE	protein-protein interactions	HOOK2		
+IRF2BP1	protein-protein interactions	AP5Z1		
+IRF2BP1	protein-protein interactions	FOXK1		
+IRF2BP1	protein-protein interactions	IRF2BP2		
+IRF2BP2	protein-protein interactions	AP5Z1		
+IRF2BP2	protein-protein interactions	FOXK1		
+IRF2BP2	protein-protein interactions	IRF2BP1		
+Rsk	inhibition	KCNA5		
+SOX2-OCT4	expression	FBXO15		
+SOX2-OCT4	expression	FGF4		
+SOX2-OCT4	expression	FOXD3		
+SOX2-OCT4	protein-protein interactions	FOXD3		

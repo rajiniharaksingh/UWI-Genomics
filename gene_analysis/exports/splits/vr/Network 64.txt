@@ -1,0 +1,62 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Collagen type VI	molecular cleavage	Focal adhesion kinase		
+Focal adhesion kinase	activation	Focal adhesion kinase		
+Focal adhesion kinase	phosphorylation	Focal adhesion kinase		
+Focal adhesion kinase	regulation of binding	Focal adhesion kinase		
+PBXIP1	protein-protein interactions	Focal adhesion kinase		
+PCBD2	protein-protein interactions	PBXIP1		
+PCBD2	protein-protein interactions	PCBD2		
+PHF14	protein-protein interactions	PCBD2		
+PPCDC	protein-protein interactions	PPCDC		
+PRUNE	activation	Focal adhesion kinase		
+PRUNE	phosphorylation	Focal adhesion kinase		
+SSX3	protein-protein interactions	PCBD2		
+TAL2	protein-protein interactions	PCBD2		
+TEKT2	protein-protein interactions	PM20D2		
+TEKT2	protein-protein interactions	PTER		
+ZBTB9	protein-protein interactions	TSR2		
+ZKSCAN1	protein-protein interactions	RFPL4B		
+ZNF195	protein-protein interactions	RFPL4B		
+ZNF232	protein-protein interactions	PPCDC		
+ZNF397	protein-protein interactions	ZBED9		
+ZNF397	protein-protein interactions	ZKSCAN1		
+ZNF397	protein-protein interactions	ZNF232		
+ZNF397	protein-protein interactions	ZNF263		
+ZNF407	protein-protein interactions	ZBTB9		
+ZNF444	protein-protein interactions	ZBED9		
+ZNF444	protein-protein interactions	ZNF397		
+ZNF496	protein-protein interactions	SSX3		
+ZNF496	protein-protein interactions	ZNF397		
+ZNF513	protein-protein interactions	ZNF513		
+ZNF784	protein-protein interactions	RFPL4B		
+ZSCAN1	protein-protein interactions	PM20D2		
+ZSCAN1	protein-protein interactions	SSX3		
+ZSCAN1	protein-protein interactions	ZNF263		
+ZSCAN1	protein-protein interactions	ZNF407		
+ZSCAN1	protein-protein interactions	ZNF496		
+ZSCAN1	protein-protein interactions	ZSCAN1		
+ZSCAN20	protein-protein interactions	ZBED9		
+ZSCAN20	protein-protein interactions	ZKSCAN1		
+ZSCAN20	protein-protein interactions	ZNF215		
+ZSCAN20	protein-protein interactions	ZNF232		
+ZSCAN20	protein-protein interactions	ZNF263		
+ZSCAN20	protein-protein interactions	ZNF397		
+ZSCAN20	protein-protein interactions	ZNF449		
+ZSCAN21	protein-protein interactions	ZNF397		
+ZSCAN21	protein-protein interactions	ZNF496		
+ZSCAN21	protein-protein interactions	ZSCAN20		
+ZSCAN22	protein-protein interactions	ZNF496		
+ZSCAN22	protein-protein interactions	ZSCAN20		
+ZSCAN22	protein-protein interactions	ZSCAN22		
+ZSCAN29	protein-protein interactions	ZNF397		
+ZSCAN29	protein-protein interactions	ZSCAN20		
+ZSCAN30	protein-protein interactions	ZNF397		
+ZSCAN30	protein-protein interactions	ZNF444		
+ZSCAN30	protein-protein interactions	ZSCAN20		
+ZZZ3	protein-protein interactions	PBXIP1		
+ZZZ3	protein-protein interactions	PCBD2		
+ZZZ3	protein-protein interactions	RFPL4B		
+ZZZ3	protein-protein interactions	ZBTB9		
+ZZZ3	protein-protein interactions	ZNF496		
+ZZZ3	protein-protein interactions	ZNF513		

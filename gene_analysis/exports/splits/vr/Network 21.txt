@@ -1,0 +1,66 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+AIMP2	protein-protein interactions	AIMP2		
+AIMP2	protein-protein interactions	EPRS		
+AIMP2	protein-protein interactions	KARS		
+AIMP2	regulation of binding	AIMP2		
+AIMP2	ubiquitination	AIMP2		
+ALT	membership	GPT		
+ARIH1	protein-protein interactions	ARIH1		
+ARIH1	ubiquitination	ARIH1		
+BPNT1	expression	GOT		
+BPNT1	expression	GPT		
+CCT7	protein-protein interactions	CCT7		
+CMTR1	protein-protein interactions	C11orf58		
+CPSF4L	protein-protein interactions	CCNG1		
+CTSA	protein-protein interactions	CTSA		
+DKC1	protein-protein interactions	CCT7		
+DKC1	protein-protein interactions	DKC1		
+EEF1A2	protein-protein interactions	C4orf19		
+EEF1D	protein-protein interactions	CCT7		
+EEF1D	protein-protein interactions	EEF1A2		
+EEF1D	protein-protein interactions	EEF1D		
+EEF1D	protein-protein interactions	EEF1G		
+EEF1G	protein-protein interactions	ADAP2		
+EEF1G	protein-protein interactions	C11orf58		
+EEF1G	protein-protein interactions	CCT7		
+EEF1G	protein-protein interactions	DKC1		
+EEF1G	protein-protein interactions	EEF1A2		
+EEF1G	protein-protein interactions	EEF1D		
+EEF1G	protein-protein interactions	EEF1G		
+EID2B	protein-protein interactions	EEF1G		
+EPRS	protein-protein interactions	AIMP2		
+EPRS	protein-protein interactions	EEF1D		
+EPRS	protein-protein interactions	KARS		
+FAM195A	protein-protein interactions	EEF1G		
+FBXO6	protein-protein interactions	ALG1		
+FBXO6	protein-protein interactions	ARIH1		
+FBXO6	protein-protein interactions	C6orf89		
+FBXO6	protein-protein interactions	CCT7		
+FBXO6	protein-protein interactions	CILP2		
+FBXO6	protein-protein interactions	CTSA		
+FBXO6	protein-protein interactions	EDEM3		
+FBXO6	protein-protein interactions	EEF1D		
+FBXO6	protein-protein interactions	EEF1G		
+FBXO6	protein-protein interactions	EFHD2		
+FBXO6	protein-protein interactions	EPRS		
+FBXO6	protein-protein interactions	FAM234A		
+FBXO6	protein-protein interactions	FARSA		
+FLG2	protein-protein interactions	FBXO6		
+GBA	activation	GBA		
+GBA	protein-protein interactions	FBXO6		
+GNS	protein-protein interactions	FBXO6		
+HGF	activation	ALT		
+HGF	expression	AIMP2		
+HGF	expression	CCNG1		
+HGF	expression	DKC1		
+HGF	expression	GBA		
+HGF	expression	HGF		
+HGF	expression	IGHMBP2		
+HGF	localization	GOT		
+HGF	localization	GPT		
+HGF	protein-protein interactions	HGF		
+IGHMBP2	protein-protein interactions	IGHMBP2		
+KARS	protein-protein interactions	AIMP2		
+KARS	protein-protein interactions	EEF1G		
+KARS	protein-protein interactions	EPRS		
+KARS	protein-protein interactions	FBXO6		

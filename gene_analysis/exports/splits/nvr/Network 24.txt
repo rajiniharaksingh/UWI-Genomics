@@ -1,0 +1,64 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ALX4	protein-protein interactions	ALX4		
+ARX	expression	LHX8		
+CDX4	protein-protein interactions	ALX4		
+DLX1	expression	ARX		
+DLX1	protein-protein interactions	ALX4		
+DLX1	protein-protein interactions	CDX4		
+DLX2	expression	ARX		
+DLX2	protein-DNA interactions	DLX2		
+DLX2	protein-protein interactions	ALX4		
+DLX2	protein-protein interactions	DLX1		
+DLX2	protein-protein interactions	DLX2		
+DLX2	transcription	DLX2		
+FOXN4	expression	NEUROD4		
+GMEB1	protein-protein interactions	GMEB1		
+Gata	protein-protein interactions	LDB1		
+IL12 (family)	expression	GMEB1		
+IL12 (family)	localization	IL12 (family)		
+IPO13	protein-protein interactions	ARX		
+LDB1	molecular cleavage	LDB1		
+LDB1	protein-protein interactions	ALX4		
+LDB1	protein-protein interactions	LDB1		
+LDB1	ubiquitination	LDB1		
+LHX3	protein-protein interactions	LDB1		
+LHX6	protein-DNA interactions	LHX6		
+LHX6	protein-protein interactions	ARID3B		
+LHX6	protein-protein interactions	ATG2B		
+LHX6	protein-protein interactions	LDB1		
+LHX6	transcription	LHX6		
+LHX8	protein-protein interactions	LDB1		
+LHX9	protein-protein interactions	LDB1		
+LMX1A	protein-protein interactions	LDB1		
+LMX1A	protein-protein interactions	LHX3		
+LMX1A	protein-protein interactions	LMX1A		
+NEUROD4	protein-protein interactions	LRRN2		
+OLIG1	expression	DLX1		
+OLIG1	expression	DLX2		
+PBX4	protein-protein interactions	IPO13		
+PDLIM4	protein-protein interactions	PDLIM4		
+PKNOX2	protein-protein interactions	PBX4		
+POU4F2	expression	DLX1		
+POU4F2	expression	DLX2		
+POU4F2	expression	NEUROD4		
+POU4F2	expression	POU4F2		
+POU4F2	expression	ZFHX4		
+POU4F2	protein-protein interactions	ALX4		
+POU4F2	protein-protein interactions	DLX1		
+POU4F2	transcription	POU4F2		
+QRICH1	protein-protein interactions	LHX6		
+QRICH1	protein-protein interactions	QRICH1		
+RNF6	protein-protein interactions	LDB1		
+SSBP3	protein-protein interactions	LDB1		
+SSBP3	protein-protein interactions	LHX6		
+SSBP3	protein-protein interactions	LHX9		
+SSBP3	protein-protein interactions	PDLIM4		
+SYNPO2	protein-protein interactions	IPO13		
+SYNPO2	regulation of binding	SYNPO2		
+TBC1D23	protein-protein interactions	SSBP3		
+WDFY1	protein-protein interactions	LHX6		
+WDFY1	protein-protein interactions	TMEM123		
+ZNF226	protein-protein interactions	GMEB1		
+ZNF226	protein-protein interactions	SSBP3		
+ZNF507	protein-protein interactions	LHX6		

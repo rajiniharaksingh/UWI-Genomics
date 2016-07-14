@@ -1,0 +1,74 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+CCT2	protein-protein interactions	CAMKMT		
+CCT2	protein-protein interactions	CCT2		
+DISC1	localization	DISC1		
+DISC1	protein-protein interactions	CCDC141		
+DISC1	protein-protein interactions	CHCHD6		
+DISC1	protein-protein interactions	CRNKL1		
+DISC1	protein-protein interactions	DISC1		
+FBXO11	protein-protein interactions	CDK13		
+FBXO11	protein-protein interactions	EFHD1		
+FYCO1	protein-protein interactions	CCDC68		
+FYCO1	protein-protein interactions	CCT2		
+FYCO1	protein-protein interactions	FYCO1		
+GPR37	molecular cleavage	GPR37		
+GPR37	protein-protein interactions	CCT2		
+GPR37	ubiquitination	GPR37		
+GRIP1	activation	GRIP1		
+GRIP1	localization	GRIP1		
+GRIP1	protein-protein interactions	GPR37		
+GRIP1	protein-protein interactions	GRIP1		
+KCNMA1	expression	KCNMA1		
+KCNMA1	protein-protein interactions	CCT2		
+KCNMA1	protein-protein interactions	HPCAL1		
+KCNMA1	protein-protein interactions	KCNMA1		
+KCNT1	protein-protein interactions	KCNMA1		
+KIF5B	localization	GRIP1		
+KIF5B	protein-protein interactions	DISC1		
+KIF5B	protein-protein interactions	FYCO1		
+KIF5B	protein-protein interactions	GRIP1		
+KIF5B	protein-protein interactions	KIF5B		
+LRRC7	localization	DISC1		
+LRRC7	protein-protein interactions	LRRC7		
+METTL7B	protein-protein interactions	KCNMA1		
+PDHA1	inhibition	PDHA1		
+PDHA1	phosphorylation	PDHA1		
+PDHA1	protein-protein interactions	PDHA1		
+PDHA1	protein-protein interactions	PDHB		
+PDHA1	regulation of binding	PDHA1		
+PDHB	protein-protein interactions	DYRK2		
+PDHB	protein-protein interactions	KCNMA1		
+PDHB	protein-protein interactions	PDHA1		
+PDHB	protein-protein interactions	PDHB		
+PDK3	activation	PDHA1		
+PDK3	phosphorylation	PDHA1		
+PDK3	protein-protein interactions	PDHA1		
+PDK3	protein-protein interactions	PDHB		
+PPM1L	protein-protein interactions	FYCO1		
+RABGAP1	protein-protein interactions	CCDC68		
+RABGAP1	protein-protein interactions	DISC1		
+RABGAP1	protein-protein interactions	RABGAP1		
+RABGAP1L	protein-protein interactions	RABGAP1		
+RBMXL2	protein-protein interactions	DYRK2		
+SLC12A2	protein-protein interactions	DISC1		
+SLC12A2	protein-protein interactions	SLC12A2		
+SPR	protein-protein interactions	KCNMA1		
+SPR	protein-protein interactions	SPR		
+SYNE1	protein-protein interactions	CCT2		
+SYNE1	protein-protein interactions	DISC1		
+SYNE1	protein-protein interactions	SYNE1		
+TSSK6	protein-protein interactions	CCT2		
+TUBA1A	expression	TUBA1A		
+TUBA1A	protein-protein interactions	CCT2		
+TUBA1A	protein-protein interactions	CDK13		
+TUBA1A	protein-protein interactions	HPCAL1		
+TUBA1A	protein-protein interactions	KCNMA1		
+TUBA1A	protein-protein interactions	SYNE1		
+TUBA1C	protein-protein interactions	CCT2		
+TUBA1C	protein-protein interactions	CDK13		
+TUBA1C	protein-protein interactions	DYRK2		
+TUBA1C	protein-protein interactions	SYNE1		
+TUBA1C	protein-protein interactions	TUBA1A		
+USPL1	protein-protein interactions	KIF5B		
+XPNPEP3	protein-protein interactions	DYRK2		

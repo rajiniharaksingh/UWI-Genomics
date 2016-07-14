@@ -1,0 +1,142 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ATPase	membership	MSH2		
+ATPase	membership	MYH8		
+ATPase	membership	MYH9		
+Ck2	activation	Ck2		
+Ck2	activation	KEL		
+Ck2	activation	KIF1C		
+Ck2	activation	KNCN		
+Ck2	activation	MGMT		
+Ck2	activation	MYOD1		
+Ck2	activation	Mlc		
+Ck2	activation	NGFR		
+Ck2	activation	NOL3		
+Ck2	expression	NGFR		
+Ck2	localization	NOL3		
+Ck2	phosphorylation	KEL		
+Ck2	phosphorylation	KIF1C		
+Ck2	phosphorylation	MGMT		
+Ck2	phosphorylation	MYOD1		
+Ck2	phosphorylation	Mlc		
+Ck2	phosphorylation	NOL3		
+Ck2	protein-protein interactions	NOL3		
+Ck2	regulation of binding	KIF1C		
+KDM4C	protein-DNA interactions	MSH2		
+KDM4C	protein-protein interactions	KDM4C		
+KDR	activation	Sfk		
+KDR	expression	KDR		
+KDR	inhibition	KDR		
+KDR	molecular cleavage	KDR		
+KDR	phosphorylation	KDR		
+KDR	protein-protein interactions	KDR		
+KDR	regulation of binding	KDR		
+KDR	ubiquitination	KDR		
+KIF1C	protein-protein interactions	KIF1C		
+MBD1	protein-DNA interactions	MGMT		
+MBD1	regulation of binding	MBD1		
+MDFI	localization	MDFI		
+MDFI	localization	MYOG		
+MDFI	protein-protein interactions	LRRN4		
+MDFI	protein-protein interactions	MDFI		
+MDFI	protein-protein interactions	MYOG		
+MDFI	transcription	MYOG		
+MESP1	localization	KDR		
+MET	activation	MET		
+MET	activation	Shc		
+MET	expression	MYOD1		
+MET	expression	MYOG		
+MET	phosphorylation	MET		
+MET	protein-protein interactions	KDR		
+MET	protein-protein interactions	MET		
+MET	protein-protein interactions	Shc		
+MET	regulation of binding	MET		
+MET	regulation of binding	Shc		
+MET	ubiquitination	MET		
+MFSD3	protein-protein interactions	MDFI		
+MGMT	protein-protein interactions	MSH2		
+MGMT	translocation	MSH2		
+MSH2	activation	MSH2		
+MSH2	activation	MSH3		
+MSH2	protein-protein interactions	MGMT		
+MSH2	protein-protein interactions	MSH2		
+MSH2	protein-protein interactions	MSH3		
+MSH3	activation	MSH3		
+MSH3	protein-protein interactions	MSH2		
+MUC20	protein-protein interactions	MET		
+MYH9	protein-protein interactions	KIF1C		
+MYH9	protein-protein interactions	MYH9		
+MYH9	protein-protein interactions	Mlc		
+MYOD1	activation	MYOG		
+MYOD1	expression	LZTS3		
+MYOD1	expression	MYLPF		
+MYOD1	expression	MYOG		
+MYOD1	expression	Mlc		
+MYOD1	inhibition	MYOD1		
+MYOD1	molecular cleavage	MYOD1		
+MYOD1	protein-DNA interactions	MYOD1		
+MYOD1	protein-DNA interactions	MYOG		
+MYOD1	protein-DNA interactions	Mlc		
+MYOD1	protein-protein interactions	MDFI		
+MYOD1	protein-protein interactions	MYOD1		
+MYOD1	regulation of binding	MYOG		
+MYOD1	transcription	MYLPF		
+MYOD1	transcription	MYOD1		
+MYOD1	transcription	MYOG		
+MYOD1	transcription	Mlc		
+MYOD1	ubiquitination	MYOD1		
+MYOG	expression	MYOD1		
+MYOG	expression	MYOG		
+MYOG	protein-DNA interactions	MYOG		
+MYOG	protein-DNA interactions	Mlc		
+MYOG	protein-protein interactions	MDFI		
+Mlc	activation	Mlc		
+Mlc	membership	MYLPF		
+Mlc	phosphorylation	Mlc		
+Mlc	protein-protein interactions	MYH9		
+NACA	expression	MYOG		
+NACA	translocation	NACA		
+NGFR	activation	Shc		
+NGFR	expression	NGFR		
+NGFR	phosphorylation	Shc		
+NGFR	protein-protein interactions	NGFR		
+NGFR	protein-protein interactions	Trk Receptor		
+NGFR	regulation of binding	Trk Receptor		
+NGFR	ubiquitination	NGFR		
+NOL3	molecular cleavage	NOL3		
+NOL3	protein-RNA interactions	NOL3		
+NOL3	protein-protein interactions	Ck2		
+NOL3	protein-protein interactions	NOL3		
+NOL3	regulation of binding	NOL3		
+NOL3	ubiquitination	NOL3		
+OLIG3	protein-protein interactions	MDFI		
+P glycoprotein	activation	ATPase		
+P glycoprotein	activation	P glycoprotein		
+Rock	activation	Mlc		
+Rock	activation	Rock		
+Rock	expression	MYLPF		
+Rock	expression	MYOD1		
+Rock	expression	NGFR		
+Rock	expression	NOP16		
+Rock	localization	Mlc		
+Rock	phosphorylation	Mlc		
+Rock	protein-protein interactions	Rock		
+Sfk	activation	Mlc		
+Sfk	activation	Shc		
+Sfk	phosphorylation	KDR		
+Sfk	phosphorylation	Mlc		
+Sfk	phosphorylation	Shc		
+Shc	activation	Shc		
+Shc	phosphorylation	Shc		
+Shc	protein-protein interactions	MET		
+Shc	regulation of binding	Shc		
+Trk Receptor	activation	Shc		
+Trk Receptor	activation	Trk Receptor		
+Trk Receptor	localization	Shc		
+Trk Receptor	phosphorylation	Trk Receptor		
+Trk Receptor	protein-protein interactions	NGFR		
+Trk Receptor	protein-protein interactions	Shc		
+Trk Receptor	protein-protein interactions	Trk Receptor		
+Trk Receptor	regulation of binding	Shc		
+Trk Receptor	regulation of binding	Trk Receptor		
+mir-592	RNA-RNA interactions: microRNA targeting	NGFR		
+mir-592	expression	NGFR		

@@ -1,0 +1,54 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ACACA	inhibition	ACACA		
+ACACA	ubiquitination	ACACA		
+ADCYAP1	expression	ADCYAP1		
+ADCYAP1	expression	AMACR		
+ADCYAP1	expression	CHGB		
+ADCYAP1	expression	DNMT3A		
+ADCYAP1	expression	FRMPD2		
+ADCYAP1	expression	IDH2		
+ADCYAP1	expression	IER3		
+ADCYAP1	regulation of binding	ADCYAP1		
+ADCYAP1	translocation	ADCYAP1		
+ADIPOR2	expression	ADIPOR2		
+AGO4	protein-protein interactions	AGK		
+CHGB	protein-protein interactions	ACACA		
+CIAO1	protein-protein interactions	ACACA		
+CIAO1	protein-protein interactions	AKAP8L		
+CIAO1	protein-protein interactions	CDKAL1		
+DNMT3A	modification	KCNQ1OT1		
+DNMT3A	molecular cleavage	DNMT3A		
+DNMT3A	protein-protein interactions	DNMT3A		
+DPP9	protein-protein interactions	CIAO1		
+EEF2K	protein-protein interactions	ACACA		
+ELP6	protein-protein interactions	CIAO1		
+EMD	expression	IER3		
+EMD	protein-protein interactions	AGO4		
+EMD	protein-protein interactions	AKAP8L		
+EMD	protein-protein interactions	ASB10		
+EMD	protein-protein interactions	EMD		
+EOMES	expression	ADCYAP1		
+FMNL2	protein-protein interactions	CIAO1		
+GCC2	protein-protein interactions	ADCYAP1		
+GCC2	protein-protein interactions	GCC2		
+GHRHR	expression	GHRHR		
+GHRHR	protein-protein interactions	ADCYAP1		
+GID8	protein-protein interactions	ADCYAP1		
+GID8	protein-protein interactions	GID8		
+GLB1L3	protein-protein interactions	DPP9		
+GMCL1	protein-protein interactions	C21orf2		
+GMCL1	protein-protein interactions	EMD		
+GMCL1	protein-protein interactions	FAM167A		
+GMCL1	protein-protein interactions	GAGE1 (includes others)		
+GMCL1	protein-protein interactions	GAGE12B/GAGE8		
+GMCL1	protein-protein interactions	GMCL1		
+GPS2	expression	ADIPOR2		
+GPS2	expression	HEBP1		
+GPS2	protein-protein interactions	GID8		
+GPS2	protein-protein interactions	GPS2		
+HEBP1	activation	FPR3		
+HEBP1	protein-protein interactions	FPR3		
+IDH2	protein-protein interactions	IDH2		
+N-cor	expression	ACACA		
+N-cor	protein-DNA interactions	ADIPOR2		
+N-cor	protein-DNA interactions	HEBP1		

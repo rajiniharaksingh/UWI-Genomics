@@ -1,0 +1,55 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+BHLHE22	localization	PRDM8		
+BHLHE22	protein-DNA interactions	BHLHE22		
+DLST	molecular cleavage	DLST		
+DLST	protein-protein interactions	OGDH		
+DLST	ubiquitination	DLST		
+DTX3L	activation	DTX3L		
+DTX3L	localization	PARP9		
+DTX3L	protein-protein interactions	DTX3L		
+DTX3L	protein-protein interactions	PARP9		
+DTX3L	ubiquitination	DTX3L		
+GAPVD1	protein-protein interactions	CPS1		
+GOT1	protein-protein interactions	ABI3BP		
+GRK5	inhibition	GRK5		
+GRK5	phosphorylation	GRK5		
+GRK5	protein-protein interactions	ABI3BP		
+GRK5	protein-protein interactions	DLST		
+GRK5	protein-protein interactions	GOT1L1		
+GRK5	protein-protein interactions	GRK5		
+GRK5	regulation of binding	GRK5		
+MAGEA10	protein-protein interactions	FAM216A		
+MRTO4	protein-protein interactions	ADARB1		
+MRTO4	protein-protein interactions	GRK5		
+NAT10	protein-protein interactions	GRK5		
+OGDH	protein-protein interactions	DLST		
+PARP9	expression	RBMS1		
+PARP9	protein-protein interactions	DTX3L		
+PAX9	protein-protein interactions	FUBP3		
+PLXNA2	protein-protein interactions	IFT80		
+PRDM8	protein-DNA interactions	BHLHE22		
+PRDM8	transcription	BHLHE22		
+RBMS1	protein-protein interactions	GRK5		
+RRS1	protein-protein interactions	ADARB1		
+SATB2	expression	BHLHE22		
+SATB2	protein-DNA interactions	PERP		
+SATB2	protein-protein interactions	FUBP3		
+SATB2	protein-protein interactions	MAGEA10		
+SATB2	regulation of binding	PERP		
+SATB2	transcription	PERP		
+SIRT5	activation	succinate dehydrogenase		
+SIRT5	protein-protein interactions	CPS1		
+SPIN3	protein-protein interactions	GRK5		
+STRBP	protein-protein interactions	ADARB1		
+STRBP	protein-protein interactions	CPS1		
+STRBP	protein-protein interactions	FUBP3		
+STRBP	protein-protein interactions	GAPVD1		
+STRBP	protein-protein interactions	SATB2		
+TCF15	expression	PAX9		
+TOR4A	protein-protein interactions	GRK5		
+UBAP2L	protein-protein interactions	PLXNA2		
+WDR12	protein-protein interactions	GRK5		
+WDR12	protein-protein interactions	WDR12		
+YEATS2	protein-protein interactions	MAGEA10		
+YEATS2	protein-protein interactions	UBAP2L		
+ZNF385B	expression	PERP		

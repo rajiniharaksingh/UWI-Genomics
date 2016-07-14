@@ -1,0 +1,55 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+PAICS	protein-protein interactions	PAICS		
+PAICS	protein-protein interactions	PFAS		
+PAICS	protein-protein interactions	PPAT		
+PFAS	protein-protein interactions	PAICS		
+PFAS	protein-protein interactions	PPAT		
+PLOD2	protein-protein interactions	PLOD2		
+PLOD3	protein-protein interactions	PLOD3		
+PPAT	protein-protein interactions	PAICS		
+PPAT	protein-protein interactions	PFAS		
+PRDM4	protein-protein interactions	PRDM4		
+RAC2	expression	TKT		
+RAC2	expression	ZYX		
+RAC2	protein-protein interactions	P4HA1		
+RAC2	protein-protein interactions	RAC2		
+RAC2	regulation of binding	RAC2		
+RAC2	translocation	RAC2		
+RARG	protein-protein interactions	PLOD2		
+RARG	protein-protein interactions	PNRC2		
+RHOXF2/RHOXF2B	protein-protein interactions	PLOD3		
+RHOXF2/RHOXF2B	protein-protein interactions	RADIL		
+RHOXF2/RHOXF2B	protein-protein interactions	RBM11		
+RHOXF2/RHOXF2B	protein-protein interactions	RHOXF2/RHOXF2B		
+RHPN2	protein-protein interactions	RARG		
+SERTAD1	protein-protein interactions	PATE1		
+SERTAD1	protein-protein interactions	PRDM4		
+SFI1	protein-protein interactions	RADIL		
+SFI1	protein-protein interactions	SERTAD1		
+SFI1	protein-protein interactions	SFI1		
+SPEN	protein-protein interactions	SERTAD1		
+SRSF9	protein-protein interactions	SPEN		
+SUOX	protein-protein interactions	SPANXN3		
+TBL1XR1	protein-protein interactions	SPEN		
+TBL1XR1	regulation of binding	TBL1XR1		
+TBL1Y	protein-protein interactions	SPEN		
+TECPR1	protein-protein interactions	PLOD2		
+TECPR1	protein-protein interactions	PLOD3		
+TECPR1	protein-protein interactions	TECPR1		
+TKT	protein-protein interactions	TECPR1		
+TKT	protein-protein interactions	TKT		
+TNFRSF10D	protein-protein interactions	PFAS		
+TNFRSF10D	protein-protein interactions	RHPN2		
+TNFRSF10D	protein-protein interactions	TKT		
+TNFRSF10D	protein-protein interactions	TNFRSF10D		
+TNRC6B	protein-protein interactions	PFAS		
+WDR60	protein-protein interactions	SPEN		
+ZBTB48	protein-protein interactions	PNRC2		
+ZBTB48	protein-protein interactions	ZBTB48		
+ZC3H13	protein-protein interactions	SPEN		
+ZNF576	protein-protein interactions	RARG		
+ZNF576	protein-protein interactions	SUOX		
+ZNF645	protein-protein interactions	SERTAD4		
+ZNF645	protein-protein interactions	ZC3H13		
+ZNF774	protein-protein interactions	RBM11		

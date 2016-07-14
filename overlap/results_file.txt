@@ -1,0 +1,6 @@
+chr	Region_start	Region_stop	Overlapping_Variable_Start	Overlapping_Variable_Stop	Overlap_Type	Number_of_Overlapping_Variable
+1	10	20	12,16	15,19	7,7	2
+1	25	40	24	100	3	1
+X	1	8	5	7	7	1
+X	10	15	9	13	1	1
+X	20	27	25	29	9	1

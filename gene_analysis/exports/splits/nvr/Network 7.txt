@@ -1,0 +1,84 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ERG	expression	PHACTR2		
+ERG	inhibition	SLC45A3		
+ERG	protein-DNA interactions	ERG		
+ERG	protein-DNA interactions	GPATCH2L		
+ERG	protein-DNA interactions	NDRG1		
+ERG	protein-DNA interactions	PCNP		
+ERG	protein-DNA interactions	TDRD5		
+ERG	protein-DNA interactions	TSC22D3		
+ERG	protein-protein interactions	ERG		
+HNRNPM	protein-protein interactions	ERG		
+MDM2	activation	MDM2		
+MDM2	expression	C10orf11		
+MDM2	expression	MDM2		
+MDM2	inhibition	MDM2		
+MDM2	localization	MDM2		
+MDM2	modification	MDM2		
+MDM2	molecular cleavage	MDM2		
+MDM2	phosphorylation	MDM2		
+MDM2	protein-DNA interactions	MDM2		
+MDM2	protein-protein interactions	DAAM2		
+MDM2	protein-protein interactions	HNRNPM		
+MDM2	protein-protein interactions	HPDL		
+MDM2	protein-protein interactions	MDM2		
+MDM2	protein-protein interactions	NPM1		
+MDM2	regulation of binding	MDM2		
+MDM2	regulation of binding	NPM1		
+MDM2	transcription	MDM2		
+MDM2	translocation	MDM2		
+MDM2	ubiquitination	MDM2		
+NPM1	expression	NPM1		
+NPM1	protein-protein interactions	DDX31		
+NPM1	protein-protein interactions	ERG		
+NPM1	protein-protein interactions	GZF1		
+NPM1	protein-protein interactions	HNRNPM		
+NPM1	protein-protein interactions	MAK16		
+NPM1	protein-protein interactions	MDM2		
+NPM1	protein-protein interactions	NPM1		
+NPM1	regulation of binding	NPM1		
+NPM1	translocation	NPM1		
+NPM1	ubiquitination	NPM1		
+PAPD5	protein-protein interactions	NPM1		
+PKM	activation	PKM		
+PKM	expression	PKM		
+PKM	localization	PKM		
+PKM	protein-protein interactions	MDM2		
+PKM	protein-protein interactions	NDRG1		
+PKM	protein-protein interactions	NPM1		
+PKM	protein-protein interactions	PKM		
+PKM	regulation of binding	PKM		
+PPAN-P2RY11	protein-protein interactions	NPM1		
+PRDX4	protein-protein interactions	MDM2		
+PRDX4	protein-protein interactions	NPM1		
+PRDX4	protein-protein interactions	PRDX4		
+RPS14	inhibition	MDM2		
+RPS14	protein-protein interactions	MDM2		
+RPS3	activation	RPS3		
+RPS3	protein-protein interactions	MDM2		
+RPS3	protein-protein interactions	NDRG1		
+RPS3	protein-protein interactions	NPM1		
+RPS3	regulation of binding	RPS3		
+RPSA	protein-protein interactions	GZF1		
+RPSA	protein-protein interactions	MDM2		
+RPSA	regulation of binding	RPSA		
+SLAIN2	protein-protein interactions	NPM1		
+SLC3A2	protein-protein interactions	MDM2		
+SLC45A3	expression	SLC45A3		
+TACO1	protein-protein interactions	MDM2		
+TEX15	protein-protein interactions	NPM1		
+TRIM4	protein-protein interactions	MDM2		
+TRIM4	protein-protein interactions	TRIM4		
+TSC22D1	protein-protein interactions	HNRNPM		
+TSC22D1	protein-protein interactions	OSTC		
+TSC22D1	protein-protein interactions	RPS14		
+TSC22D1	protein-protein interactions	SLC3A2		
+TSC22D1	protein-protein interactions	TSC22D1		
+TSC22D3	protein-protein interactions	DCLK2		
+TSC22D3	protein-protein interactions	MDM2		
+TSC22D3	protein-protein interactions	TSC22D1		
+TSC22D3	protein-protein interactions	TSC22D3		
+USP36	protein-protein interactions	NPM1		
+ZNF766	protein-protein interactions	MDM2		
+ZNF800	protein-protein interactions	NPM1		

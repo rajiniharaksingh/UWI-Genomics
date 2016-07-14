@@ -1,0 +1,43 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ADGRE2	expression	ADGRE2		
+ADGRE2	protein-protein interactions	ADGRE2		
+Gpcr	inhibition	Gpcr		
+Gpcr	membership	ADGRA3		
+Gpcr	membership	ADGRB3		
+Gpcr	membership	ADGRD1		
+Gpcr	membership	ADGRE2		
+Gpcr	membership	ADGRE3		
+Gpcr	membership	ADGRG4		
+Gpcr	membership	ADGRG6		
+Gpcr	membership	BRS3		
+Gpcr	membership	CH17-360D5.1/NPY4R		
+Gpcr	membership	GPR1		
+Gpcr	membership	GPR101		
+Gpcr	membership	GPR137C		
+Gpcr	membership	GPR149		
+Gpcr	membership	GPR151		
+Gpcr	membership	GPR152		
+Gpcr	membership	GPR155		
+Gpcr	membership	GPR156		
+Gpcr	membership	GPR158		
+Gpcr	membership	GPR174		
+Gpcr	membership	GPR37L1		
+Gpcr	membership	GPR61		
+Gpcr	membership	GPR63		
+Gpcr	membership	GPR75		
+Gpcr	membership	LPAR3		
+Gpcr	membership	MAS1L		
+Gpcr	membership	NTSR2		
+Gpcr	membership	P2RY10		
+Gpcr	membership	QRFPR		
+Gpcr	membership	RRH		
+Gpcr	membership	RXFP2		
+Gpcr	membership	TAAR2		
+Gpcr	membership	TAAR5		
+Gpcr	membership	TAAR8		
+Gpcr	membership	TAS1R2		
+Gpcr	phosphorylation	Gpcr		
+Gpcr	regulation of binding	Gpcr		
+NTSR2	protein-protein interactions	NTSR2		
+RXFP2	protein-protein interactions	RXFP2		

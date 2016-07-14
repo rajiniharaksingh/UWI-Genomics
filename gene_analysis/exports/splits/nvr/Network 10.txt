@@ -1,0 +1,88 @@
+© 2000-2016 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+Calmodulin	activation	UNC13A		
+Calmodulin	expression	Calmodulin		
+Calmodulin	expression	DOC2B		
+Calmodulin	expression	MAP9		
+Calmodulin	expression	NECAB1		
+Calmodulin	expression	OPCML		
+Calmodulin	protein-protein interactions	Calmodulin		
+Calmodulin	protein-protein interactions	UNC13A		
+Calmodulin	regulation of binding	Calmodulin		
+Calmodulin	regulation of binding	KCNQ4		
+Calmodulin	translocation	Calmodulin		
+DGUOK	protein-protein interactions	DGUOK		
+DNAH10	protein-protein interactions	DNAH11		
+DNAH10	protein-protein interactions	DNAH12		
+DNAH10	protein-protein interactions	DNAH14		
+DNAH10	protein-protein interactions	DNAH17		
+DNAH10	protein-protein interactions	DNAH2		
+DNAH10	protein-protein interactions	DNAH5		
+DNAH10	protein-protein interactions	DNAH6		
+DNAH10	protein-protein interactions	DNAH9		
+DNAH10	protein-protein interactions	DYNLT1		
+DNAH11	protein-protein interactions	DNAH12		
+DNAH11	protein-protein interactions	DNAH14		
+DNAH11	protein-protein interactions	DNAH17		
+DNAH11	protein-protein interactions	DNAH2		
+DNAH11	protein-protein interactions	DNAH5		
+DNAH11	protein-protein interactions	DNAH6		
+DNAH11	protein-protein interactions	DNAH9		
+DNAH11	protein-protein interactions	DYNLT1		
+DNAH12	protein-protein interactions	DNAH14		
+DNAH12	protein-protein interactions	DNAH17		
+DNAH12	protein-protein interactions	DNAH2		
+DNAH12	protein-protein interactions	DNAH5		
+DNAH12	protein-protein interactions	DNAH6		
+DNAH12	protein-protein interactions	DNAH9		
+DNAH12	protein-protein interactions	DYNLT1		
+DNAH14	protein-protein interactions	DNAH17		
+DNAH14	protein-protein interactions	DNAH2		
+DNAH14	protein-protein interactions	DNAH5		
+DNAH14	protein-protein interactions	DNAH6		
+DNAH14	protein-protein interactions	DNAH9		
+DNAH14	protein-protein interactions	DYNLT1		
+DNAH17	protein-protein interactions	DNAH2		
+DNAH17	protein-protein interactions	DNAH5		
+DNAH17	protein-protein interactions	DNAH6		
+DNAH17	protein-protein interactions	DNAH9		
+DNAH17	protein-protein interactions	DYNLT1		
+DNAH2	protein-protein interactions	DNAH5		
+DNAH2	protein-protein interactions	DNAH6		
+DNAH2	protein-protein interactions	DNAH9		
+DNAH2	protein-protein interactions	DYNLT1		
+DNAH5	expression	DNAH6		
+DNAH5	protein-protein interactions	DNAH6		
+DNAH5	protein-protein interactions	DNAH9		
+DNAH5	protein-protein interactions	DYNLT1		
+DNAH6	protein-protein interactions	DNAH9		
+DNAH6	protein-protein interactions	DYNLT1		
+DNAH9	protein-protein interactions	DYNLT1		
+DOC2B	protein-protein interactions	DOC2A		
+DYNLT1	protein-protein interactions	DOC2A		
+DYNLT1	protein-protein interactions	DOC2B		
+DYNLT1	protein-protein interactions	DYNLT1		
+ERC2	protein-protein interactions	DGUOK		
+NTM	protein-protein interactions	DGUOK		
+NTM	protein-protein interactions	NTM		
+OPCML	protein-protein interactions	NTM		
+PDIA5	protein-protein interactions	NTM		
+RFX3	protein-DNA interactions	DNAH11		
+RFX3	protein-DNA interactions	DNAH9		
+STXBP3	protein-protein interactions	AAGAB		
+STXBP3	protein-protein interactions	DOC2A		
+STXBP3	protein-protein interactions	DOC2B		
+STXBP3	protein-protein interactions	PLPPR1		
+STXBP5	protein-protein interactions	STXBP3		
+TRPM3	protein-protein interactions	Calmodulin		
+TTC33	protein-protein interactions	PLPPR1		
+UNC13A	protein-protein interactions	Calmodulin		
+UNC13A	protein-protein interactions	DOC2A		
+UNC13A	protein-protein interactions	ERC2		
+ZRSR2	protein-protein interactions	CCDC97		
+ZRSR2	protein-protein interactions	GPATCH11		
+ZRSR2	protein-protein interactions	NKTR		
+ZRSR2	protein-protein interactions	PDCD7		
+ZRSR2	protein-protein interactions	SLC4A1AP		
+ZRSR2	protein-protein interactions	TRPM3		
+ZRSR2	protein-protein interactions	TTC33		

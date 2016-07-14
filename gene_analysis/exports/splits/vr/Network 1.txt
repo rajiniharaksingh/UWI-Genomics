@@ -1,0 +1,80 @@
+﻿From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ACTB	protein-protein interactions	ACTB		
+ALK	activation	ALK		
+ALK	protein-protein interactions	ACTB		
+ALK	ubiquitination	ALK		
+ANGPTL4	protein-protein interactions	ACTB		
+ASCL4	protein-protein interactions	ASCL4		
+CD2AP	protein-protein interactions	CD2AP		
+CD81	modification	CD81		
+CD81	protein-protein interactions	ACTB		
+CD81	protein-protein interactions	CD81		
+CD81	regulation of binding	CD81		
+CNDP2	protein-protein interactions	CNDP1		
+CRK	protein-protein interactions	ACTB		
+CRK	protein-protein interactions	APOL5		
+CRK	protein-protein interactions	ASCL4		
+CRK	protein-protein interactions	C6orf141		
+CRK	protein-protein interactions	CASS4		
+CRK	protein-protein interactions	CD2AP		
+CRK	protein-protein interactions	CELSR2		
+CRK	protein-protein interactions	CNDP2		
+CRK	protein-protein interactions	CRK		
+CRK	regulation of binding	CRK		
+DLX4	expression	DLX4		
+DLX4	protein-protein interactions	CRK		
+DNM2	activation	DNM2		
+DNM2	protein-protein interactions	CD2AP		
+DNM2	protein-protein interactions	CRK		
+DUSP15	protein-protein interactions	CRK		
+EEF1A1	protein-protein interactions	ACTB		
+EEF1A1	protein-protein interactions	CCDC130		
+EEF1A1	protein-protein interactions	CD81		
+EEF1A1	protein-protein interactions	COX17		
+EEF1A1	protein-protein interactions	CRK		
+EEF1A1	protein-protein interactions	EEF1A1		
+FLNA	phosphorylation	FLNA		
+FLNA	protein-protein interactions	ACTB		
+FLNA	protein-protein interactions	CD81		
+FLNA	protein-protein interactions	CRK		
+FLNA	protein-protein interactions	FLNA		
+FLNA	regulation of binding	FLNA		
+GNB2L1	expression	ISG15		
+GNB2L1	inhibition	GNB2L1		
+GNB2L1	localization	GNB2L1		
+GNB2L1	protein-protein interactions	ACTB		
+GNB2L1	protein-protein interactions	ALK		
+GNB2L1	protein-protein interactions	CD81		
+GNB2L1	protein-protein interactions	CRK		
+GNB2L1	protein-protein interactions	GNB2L1		
+GNB2L1	protein-protein interactions	ISG15		
+GNB2L1	regulation of binding	CRK		
+HIST1H2AH	protein-protein interactions	CRK		
+HOXC11	protein-protein interactions	CD2AP		
+HTR6	protein-protein interactions	DNM2		
+IPO5	protein-protein interactions	BHLHB9		
+ISG15	protein-protein interactions	ACTB		
+ISG15	protein-protein interactions	DDX42		
+ISG15	protein-protein interactions	EEF1A1		
+ISG15	protein-protein interactions	FLNA		
+ISG15	protein-protein interactions	GNB2L1		
+ISG15	protein-protein interactions	ISG15		
+ISG15	regulation of binding	ISG15		
+ITGA4	expression	ITGA4		
+ITGA4	protein-protein interactions	ACTB		
+ITGA4	protein-protein interactions	CAD		
+ITGA4	protein-protein interactions	CD2AP		
+ITGA4	protein-protein interactions	CD81		
+ITGA4	protein-protein interactions	DDX42		
+ITGA4	protein-protein interactions	DNM2		
+ITGA4	protein-protein interactions	EEF1A1		
+ITGA4	protein-protein interactions	FLNA		
+ITGA4	protein-protein interactions	GNB2L1		
+ITGA4	protein-protein interactions	HIST1H2BF		
+ITGA4	protein-protein interactions	HIST1H3F		
+ITGA4	protein-protein interactions	HIST1H3G		
+ITGA4	protein-protein interactions	HIST1H3H		
+ITGA4	protein-protein interactions	HIST1H3I		
+ITGA4	protein-protein interactions	IPO5		
+ITGA4	protein-protein interactions	ITGA4		
+ITGA4	regulation of binding	ITGA4		
