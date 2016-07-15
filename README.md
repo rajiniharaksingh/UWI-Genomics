@@ -11,7 +11,7 @@ For an example  go to the overlap folder and follow these steps:
 
 2. Ensure you have python 2.7 installed on your computer as well as pandas.
 
-3. Go to the directory you saved your overlap_two_files.py (e.g. If you saved it in a folder called python_files in documents, on the command line run 'cd' wihtout quotations, then 'cd Documents/python_files' without quotations)
+3. Go to the directory you saved your overlap_two_files.py (e.g. If you saved it in a folder called python_files in documents, on the command line run 'cd' without quotations, then 'cd Documents/python_files' without quotations)
 
 4. Run 'python overlap_two_files.py'
 

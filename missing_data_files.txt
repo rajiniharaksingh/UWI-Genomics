@@ -1,4 +1,4 @@
-decipher_list_updated_hg38.txt
-non_variable_regions_update.txtnon_variable_regions.txt
-variable_regions_update.txtvariable_regions.txt
-variations_modified.txtvariations_start_stop.txtvariations.txt
+decipher_list_updated_hg38.txt - decipher data converted to hg38 and combined into a form that is amenable to our code
+non_variable_regions_update.txt - NVR that includes the decipher datanon_variable_regions.txt - original NVR from DGV
+variable_regions_update.txt - VR that includes the decipher datavariable_regions.txt - original VR from DGV
+variations_modified.txt - removed a couple columns from variations.txtvariations_start_stop.txt - took only start and stop from variations.txtvariations.txt - original file that is downloaded from Database genomic variants (DGV)
