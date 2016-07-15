@@ -1,4 +1,4 @@
-all_genes.csv
-gene_start_stop_no_dups.csv
-genes_overlapping_nvr_old.csvgenes_overlapping_nvr_update.csvgenes_overlapping_nvr.csvgenes_overlapping_VR_old.csvgenes_overlapping_VR_update.csvgenes_overlapping_VR.csvgenes_start_stop.txtgenes.txt
-non_variable_regions_and_genes_update.txtnon_variable_regions_and_genes.txtresults_non_variable_regions_all_unq.txtresults_variable_regions_all_unq.txtvariable_regions_and_genes_update.txtvariable_regions_and_genes.txt
+all_genes.csv - contains list of all the genes from genes.txt
+gene_start_stop_no_dups.csv - contains a list of start and stop ranges but concatenate geneIDs with the same start and stop region
+genes_overlapping_nvr_old.csv - old analysis, not usedgenes_overlapping_nvr_update.csv - contains genes that overlap with the NVR updated to include deciphergenes_overlapping_nvr.csv - contains genes that overlap with the NVRgenes_overlapping_VR_old.csv  - old analysis, not usedgenes_overlapping_VR_update.csv - contains genes that overlap with the VR updated to include deciphergenes_overlapping_VR.csv  - contains genes that overlap with the VRgenes_start_stop.txt -  contains a list of start and stop ranges (modified version of genes.txt)genes.txt - original file containing the genes
+non_variable_regions_and_genes_update.txt - shows full analysis of genes that overlap with NVR with deciphernon_variable_regions_and_genes.txt - shows full analysis of genes that overlap with NVRresults_non_variable_regions_all_unq.txt - old analysis, not usedresults_variable_regions_all_unq.txt - old analysis, not usedvariable_regions_and_genes_update.txt - shows full analysis of genes that overlap with VR with deciphervariable_regions_and_genes.txt - shows full analysis of genes that overlap with VR

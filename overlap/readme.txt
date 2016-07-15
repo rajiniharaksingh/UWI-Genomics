@@ -1,0 +1,3 @@
+THIS IS FOR EXAMPLE PURPOSES ONLY
+
+overlap_two_files.py - python code to combine region_data.txt with variable_data.txtregion_data.txt - data which contains (fictional) chromosome start and stop values, which is the main file and you want to apply many variable files to it.results_file.txt - the result of combining region_data.txt with variable_data.txtvariable_data.txt - data with start and stop values you want to see if it overlaps with region_data.txt

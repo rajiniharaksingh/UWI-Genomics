@@ -1,1 +1,1 @@
-decipher_list_ucsc_format.txtdecipher_list.txtremapped_decipher_list_ucsc_format.txt
+decipher_list_ucsc_format.txt - changed the decipher_list.txt file to a format that can be used in UCSC to convert to hg38decipher_list.txt - original downloaded fileremapped_decipher_list_ucsc_format.txt - converted decipher_list_ucsc_format.txt to hg38

@@ -1,2 +1,2 @@
-CpG_Island_NVR_each_range_normalized.txtCpG_Island_NVR_each_range.txtCpG_Island_VR_each_range_normalized.txtCpG_Island_VR_each_range.txt
-GC_content_NVR_each_range.txtGC_content_VR_each_range.txt
+CpG_Island_NVR_each_range_normalized.txt - for each start and stop in the NVR, we find the normalized amount of CpG IslandsCpG_Island_NVR_each_range.txt - for each start and stop in the NVR, we just counted the amount of CpG IslandsCpG_Island_VR_each_range_normalized.txt - or each start and stop in the VR, we find the normalized amount of CpG IslandsCpG_Island_VR_each_range.txt - for each start and stop in the VR, we just counted the amount of CpG Islands
+GC_content_NVR_each_range.txt for each start and stop in the NVR, we just counted the amount of GC content and also normalizedGC_content_VR_each_range.txt - for each start and stop in the VR, we just counted the amount of GC content and also normalized

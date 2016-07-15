@@ -1,1 +1,4 @@
-chr1	10	20
+fasta - fasta files that is downloaded from online which is used to count GC content
+GC Content Analysis.ipynb - Created GC content and CPG IslandsGC_content_NVR_norm.txt - GC content per chromosome in NVR normalizedGC_content_NVR.txt - A count of the GC content per chromosome GC_content_VR_norm.txt - GC content per chromosome in VR normalizedmissing_data_files.txt -> Once this file is in a folder it means that the file is large and I put it in the Mega link. The names of the files are stored here.
+
+MEGA LINK (need to sign up to get access): https://mega.nz/#fm/HAxWSSjR!49331DES7YUIW5866ZAinw

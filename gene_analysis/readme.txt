@@ -1,15 +1,9 @@
-ALL_GENES.CSV - contains list of all the genes from genes.txt
+combining_regions_and_genes.ipynb - code for analysis of genes in the NVR and VR
+exports/results/ - results that was generated from the exports from IPA. The names of each file is self explanitory. N.B vr_interations_count_incomplete.txt is incomplete since we ran out of exports from IPA per month
+exports/splits/nvr/ - exports from IPA for the NVR
+exports/splits/vr/ - exports from IPA for the VR
+exports/symbols/ - combined the results from exports/splits/nvr/ and exports/splits/vr/ and combined them for analysis
+remove_duplicate_gene_start_stop.ipynb - remove all the duplicates from the genes data as there can be different gene ids assigned to the exact same start and stop coordinates
+missing_data_files.txt -> Once this file is in a folder it means that the file is large and I put it in the Mega link. The names of the files are stored here.
 
-GENE_START_STOP_NO_DUPS.CSV - contains a list of start and stop ranges but concatenate geneIDs with the same start and stop region
-
-GENES_OVERLAPPING_NVR.CSV - contains genes that overlap with the NVR
-
-GENES_OVERLAPPING_VR.CSV - contains genes that overlap with the VR
-
-GENES_START_STOP.TXT - contains a list of start and stop ranges (modified version of genes.txt)
-
-GENES.TXT - original file containing the genes
-
-NON_VARIABLE_REGIONS_AND_GENES.TXT - shows full analysis of genes that overlap with NVR
-
-NON_VARIABLE_REGIONS_AND_GENES.TXT - shows full analysis of genes that overlap with VR
+MEGA LINK (need to sign up to get access): https://mega.nz/#fm/HAxWSSjR!49331DES7YUIW5866ZAinw

@@ -1,5 +1,5 @@
-cpg_islands_modified_consolidated.txt
-cpg_islands_modified.txt
-cpg_islands.txt
-dnase_clusters_modified_consolidated.txtdnase_clusters_modified.txtdnase_clusters.txtdnase_hs_modified_consolidated.txtdnase_hs_modified.txtdnase_hs.txtgene_start_stop_no_dups_consolidated.txt
-unmasked_cpg_modified_consolidated.txtunmasked_cpg_modified.txtunmasked_cpg.txt
+cpg_islands_modified_consolidated.txt - consolidated the ranges
+cpg_islands_modified.txt - modified to suit analysis 
+cpg_islands.txt - original CpG Islands file
+dnase_clusters_modified_consolidated.txt - - consolidated the rangesdnase_clusters_modified.txt - modified to suit analysisdnase_clusters.txt - original Dnase clusters filednase_hs_modified_consolidated.txt - - consolidated the rangesdnase_hs_modified.txt - modified to suit analysisdnase_hs.txt - original Dnase hs filegene_start_stop_no_dups_consolidated.txt - - consolidated the ranges
+unmasked_cpg_modified_consolidated.txt - - consolidated the rangesunmasked_cpg_modified.txt - modified to suit analysisunmasked_cpg.txt - original unmanned CpG file

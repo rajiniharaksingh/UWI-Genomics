@@ -1,1 +1,1 @@
-all_genes.txtcombined.txtnvr.txtvr.txt
+all_genes.txt - all the genes that we are looking at, we wanted to see how IPA classifies themcombined.txt - combined nvr.txt and vr.txtnvr.txt - combined results from splits/nvrvr.txt - combined results from splits/vr
