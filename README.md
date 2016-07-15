@@ -5,7 +5,7 @@ Read the readme.txt files which explain what each folder does
 Many files which are too large are stored in the MEGA cloud service. These missing files are documented in a missing_data_files.txt in each folder. If there is none, then all the files are presenet in THAT FOLDER ALONE. You would need to sign up for an account to gain access to it. The link is https://mega.nz/#fm/HAxWSSjR!49331DES7YUIW5866ZAinw
 
 ---
-For and example  go to the overlap folder and follow the following steps:
+For an example  go to the overlap folder and follow the following steps:
 
 1. Click overlap_two_files.py and copy and paste the code into a file and name it overlap_two_files.py. Do the same for region_data.txt and variable_data.txt. Ensure these are all in the same folder
 
